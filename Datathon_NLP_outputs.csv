@@ -1,0 +1,1900 @@
+,LONG DESCRIPTION,DIAGNOSIS CODE,processed_description,Cluster
+0,"Swelling, mass, or lump in chest",7866,swelling mass or lump in chest,1
+1,"Vaginal enterocele, congenital or acquired",6186,vaginal enterocele congenital or acquired,1
+2,"Unspecified schizophrenia, unspecified",29590,unspecified schizophrenia unspecified,7
+3,Intracerebral hemorrhage,431,intracerebral hemorrhage,1
+4,Loss of weight,78321,loss of weight,1
+5,"Malignant neoplasm of breast (female), unspecified",1749,malignant neoplasm of breast female unspecified,2
+6,Unspecified disorder of intestine,5699,unspecified disorder of intestine,7
+7,Shortness of breath,78605,shortness of breath,1
+8,"Anemia, unspecified",2859,anemia unspecified,7
+9,Coronary atherosclerosis of native coronary artery,41401,coronary atherosclerosis of native coronary artery,1
+10,Other musculoskeletal symptoms referable to limbs,72989,other musculoskeletal symptoms referable to limbs,1
+11,Obstructive chronic bronchitis with (acute) exacerbation,49121,obstructive chronic bronchitis with acute exacerbation,5
+12,Acute respiratory failure,51881,acute respiratory failure,5
+13,Closed fracture of unspecified part of femur,82100,closed fracture of unspecified part of femur,10
+14,"Schizoaffective disorder, unspecified",29570,schizoaffective disorder unspecified,7
+15,Observation for suspected cardiovascular disease,V717,observation for suspected cardiovascular disease,3
+16,"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled",25082,diabetes with other specified manifestations type ii or unspecified type uncontrolled,6
+17,Unspecified peritonitis,5679,unspecified peritonitis,7
+18,Unspecified septicemia,0389,unspecified septicemia,7
+19,Other and unspecified angina pectoris,4139,other and unspecified angina pectoris,7
+20,Altered mental status,78097,altered mental status,1
+21,Gross hematuria,59971,gross hematuria,1
+22,Obstructive chronic bronchitis with acute bronchitis,49122,obstructive chronic bronchitis with acute bronchitis,5
+23,Other abnormal blood chemistry,7906,other abnormal blood chemistry,1
+24,"Cellulitis and abscess of leg, except foot",6826,cellulitis and abscess of leg except foot,1
+25,"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg",71536,osteoarthrosis localized not specified whether primary or secondary lower leg,9
+26,Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS),60001,hypertrophy benign of prostate with urinary obstruction and other lower urinary tract symptoms luts,9
+27,"Other and unspecified alcohol dependence, continuous",30391,other and unspecified alcohol dependence continuous,7
+28,Palpitations,7851,palpitations,1
+29,"Peripheral vascular disease, unspecified",4439,peripheral vascular disease unspecified,3
+30,Other malaise and fatigue,78079,other malaise and fatigue,1
+31,"Congestive heart failure, unspecified",4280,congestive heart failure unspecified,3
+32,"Pneumonia, organism unspecified",486,pneumonia organism unspecified,7
+33,"Bipolar I disorder, most recent episode (or current) manic, severe, specified as with psychotic behavior",29644,bipolar i disorder most recent episode or current manic severe specified as with psychotic behavior,3
+34,"Hematuria, unspecified",59970,hematuria unspecified,7
+35,Blood in stool,5781,blood in stool,1
+36,Other alteration of consciousness,78009,other alteration of consciousness,1
+37,Septicemia due to escherichia coli [E. coli],03842,septicemia due to escherichia coli e coli,1
+38,Closed fracture of intertrochanteric section of neck of femur,82021,closed fracture of intertrochanteric section of neck of femur,10
+39,Pathologic fracture of vertebrae,73313,pathologic fracture of vertebrae,10
+40,"Abdominal pain, unspecified site",78900,abdominal pain unspecified site,7
+41,Aortic valve disorders,4241,aortic valve disorders,1
+42,"Other complications due to renal dialysis device, implant, and graft",99673,other complications due to renal dialysis device implant and graft,8
+43,"Depressive disorder, not elsewhere classified",311,depressive disorder not elsewhere classified,1
+44,Unspecified transient cerebral ischemia,4359,unspecified transient cerebral ischemia,7
+45,"Dysphagia, unspecified",78720,dysphagia unspecified,7
+46,"Hypoglycemia, unspecified",2512,hypoglycemia unspecified,7
+47,Occlusion and stenosis of carotid artery without mention of cerebral infarction,43310,occlusion and stenosis of carotid artery without mention of cerebral infarction,1
+48,Other disorders of neurohypophysis,2536,other disorders of neurohypophysis,1
+49,Acute pancreatitis,5770,acute pancreatitis,5
+50,"Chest pain, unspecified",78650,chest pain unspecified,7
+51,Arterial embolism and thrombosis of lower extremity,44422,arterial embolism and thrombosis of lower extremity,9
+52,Intermediate coronary syndrome,4111,intermediate coronary syndrome,1
+53,Atrial fibrillation,42731,atrial fibrillation,1
+54,Other closed transcervical fracture of neck of femur,82009,other closed transcervical fracture of neck of femur,10
+55,Nausea with vomiting,78701,nausea with vomiting,1
+56,Acute and chronic respiratory failure,51884,acute and chronic respiratory failure,5
+57,Dehydration,27651,dehydration,1
+58,"Urinary tract infection, site not specified",5990,urinary tract infection site not specified,3
+59,"Hemorrhage of gastrointestinal tract, unspecified",5789,hemorrhage of gastrointestinal tract unspecified,7
+60,"Acute kidney failure, unspecified",5849,acute kidney failure unspecified,5
+61,"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage",53550,unspecified gastritis and gastroduodenitis without mention of hemorrhage,7
+62,Nausea alone,78702,nausea alone,1
+63,Headache,7840,headache,1
+64,Cystic fibrosis without mention of meconium ileus,27700,cystic fibrosis without mention of meconium ileus,1
+65,Rhabdomyolysis,72888,rhabdomyolysis,1
+66,Empyema without mention of fistula,5109,empyema without mention of fistula,1
+67,"Thoracoabdominal aneurysm, without mention of rupture",4417,thoracoabdominal aneurysm without mention of rupture,1
+68,Cough,7862,cough,1
+69,Attention to colostomy,V553,attention to colostomy,1
+70,"Major depressive affective disorder, single episode, unspecified",29620,major depressive affective disorder single episode unspecified,7
+71,Syncope and collapse,7802,syncope and collapse,1
+72,Atrial flutter,42732,atrial flutter,1
+73,Aneurysm of other specified artery,44289,aneurysm of other specified artery,3
+74,"Pain in joint, pelvic region and thigh",71945,pain in joint pelvic region and thigh,1
+75,"Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh",71595,osteoarthrosis unspecified whether generalized or localized pelvic region and thigh,7
+76,Other general symptoms,78099,other general symptoms,1
+77,Hemorrhage complicating a procedure,99811,hemorrhage complicating a procedure,1
+78,"Hypotension, unspecified",4589,hypotension unspecified,7
+79,"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled",25080,diabetes with other specified manifestations type ii or unspecified type not stated as uncontrolled,6
+80,"Bipolar disorder, unspecified",29680,bipolar disorder unspecified,7
+81,Other orthopedic aftercare,V5489,other orthopedic aftercare,1
+82,Encounter for removal of internal fixation device,V5401,encounter for removal of internal fixation device,1
+83,"Osteoarthrosis, localized, primary, shoulder region",71511,osteoarthrosis localized primary shoulder region,1
+84,Pain in limb,7295,pain in limb,1
+85,"Subendocardial infarction, initial episode of care",41071,subendocardial infarction initial episode of care,5
+86,"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh",71535,osteoarthrosis localized not specified whether primary or secondary pelvic region and thigh,3
+87,"Cholecystitis, unspecified",57510,cholecystitis unspecified,7
+88,"Abdominal pain, epigastric",78906,abdominal pain epigastric,1
+89,Cirrhosis of liver without mention of alcohol,5715,cirrhosis of liver without mention of alcohol,1
+90,"Malignant neoplasm of upper lobe, bronchus or lung",1623,malignant neoplasm of upper lobe bronchus or lung,2
+91,"Fever, unspecified",78060,fever unspecified,7
+92,"Osteoarthrosis, unspecified whether generalized or localized, lower leg",71596,osteoarthrosis unspecified whether generalized or localized lower leg,9
+93,Obstruction of bile duct,5762,obstruction of bile duct,4
+94,"Unspecified fracture of ankle, closed",8248,unspecified fracture of ankle closed,10
+95,"Cerebral artery occlusion, unspecified with cerebral infarction",43491,cerebral artery occlusion unspecified with cerebral infarction,1
+96,Dislocation of prosthetic joint,99642,dislocation of prosthetic joint,1
+97,"Other malignant lymphomas, unspecified site, extranodal and solid organ sites",20280,other malignant lymphomas unspecified site extranodal and solid organ sites,7
+98,Infection and inflammatory reaction due to indwelling urinary catheter,99664,infection and inflammatory reaction due to indwelling urinary catheter,1
+99,Other convulsions,78039,other convulsions,1
+100,Closed fracture of pubis,8082,closed fracture of pubis,10
+101,"Paranoid type schizophrenia, chronic with acute exacerbation",29534,paranoid type schizophrenia chronic with acute exacerbation,5
+102,Acute venous embolism and thrombosis of deep vessels of proximal lower extremity,45341,acute venous embolism and thrombosis of deep vessels of proximal lower extremity,9
+103,"Pain in joint, lower leg",71946,pain in joint lower leg,9
+104,"Other complications due to genitourinary device, implant, and graft",99676,other complications due to genitourinary device implant and graft,8
+105,Dizziness and giddiness,7804,dizziness and giddiness,1
+106,Acute on chronic systolic heart failure,42823,acute on chronic systolic heart failure,5
+107,Other ascites,78959,other ascites,1
+108,Hypoxemia,79902,hypoxemia,1
+109,Other respiratory abnormalities,78609,other respiratory abnormalities,1
+110,Other inflammatory disorders of male genital organs,6084,other inflammatory disorders of male genital organs,1
+111,"Abdominal pain, right lower quadrant",78903,abdominal pain right lower quadrant,9
+112,Swelling of limb,72981,swelling of limb,1
+113,Painful respiration,78652,painful respiration,1
+114,Care involving other specified rehabilitation procedure,V5789,care involving other specified rehabilitation procedure,3
+115,"Acute myocardial infarction of other anterior wall, initial episode of care",41011,acute myocardial infarction of other anterior wall initial episode of care,5
+116,Unspecified disorder of kidney and ureter,5939,unspecified disorder of kidney and ureter,7
+117,Postmenopausal bleeding,6271,postmenopausal bleeding,1
+118,Closed fracture of unspecified part of neck of femur,8208,closed fracture of unspecified part of neck of femur,10
+119,Pneumonia due to Pseudomonas,4821,pneumonia due to pseudomonas,1
+120,Unspecified psychosis,2989,unspecified psychosis,7
+121,"Vascular dementia, with delirium",29041,vascular dementia with delirium,1
+122,"Asthma, unspecified type, with status asthmaticus",49391,asthma unspecified type with status asthmaticus,6
+123,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),60000,hypertrophy benign of prostate without urinary obstruction and other lower urinary tract symptom luts,9
+124,Intestinal infection due to Clostridium difficile,00845,intestinal infection due to clostridium difficile,1
+125,Other and unspecified noninfectious gastroenteritis and colitis,5589,other and unspecified noninfectious gastroenteritis and colitis,7
+126,Incisional hernia without mention of obstruction or gangrene,55321,incisional hernia without mention of obstruction or gangrene,4
+127,Calculus of kidney,5920,calculus of kidney,1
+128,Impotence of organic origin,60784,impotence of organic origin,1
+129,"Diabetes with ketoacidosis, type I [juvenile type], uncontrolled",25013,diabetes with ketoacidosis type i juvenile type uncontrolled,6
+130,"Epilepsy, unspecified, without mention of intractable epilepsy",34590,epilepsy unspecified without mention of intractable epilepsy,7
+131,"Acute edema of lung, unspecified",5184,acute edema of lung unspecified,5
+132,Iron deficiency anemia secondary to blood loss (chronic),2800,iron deficiency anemia secondary to blood loss chronic,3
+133,Diarrhea,78791,diarrhea,1
+134,"Leukocytosis, unspecified",28860,leukocytosis unspecified,7
+135,Closed fracture of unspecified part of humerus,81220,closed fracture of unspecified part of humerus,10
+136,Hyposmolality and/or hyponatremia,2761,hyposmolality andor hyponatremia,1
+137,Unspecified fall,E8889,unspecified fall,7
+138,Chronic obstructive asthma with (acute) exacerbation,49322,chronic obstructive asthma with acute exacerbation,5
+139,"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled",25070,diabetes with peripheral circulatory disorders type ii or unspecified type not stated as uncontrolled,6
+140,Flat foot,734,flat foot,1
+141,"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction",57420,calculus of gallbladder without mention of cholecystitis without mention of obstruction,4
+142,"Abdominal pain, other specified site",78909,abdominal pain other specified site,3
+143,Acute and chronic cholecystitis,57512,acute and chronic cholecystitis,5
+144,"Major depressive affective disorder, single episode, severe, specified as with psychotic behavior",29624,major depressive affective disorder single episode severe specified as with psychotic behavior,3
+145,"Flatulence, eructation, and gas pain",7873,flatulence eructation and gas pain,1
+146,"Bipolar I disorder, most recent episode (or current) manic, severe, without mention of psychotic behavior",29643,bipolar i disorder most recent episode or current manic severe without mention of psychotic behavior,1
+147,Other left bundle branch block,4263,other left bundle branch block,1
+148,Hepatic encephalopathy,5722,hepatic encephalopathy,1
+149,"Abdominal pain, periumbilic",78905,abdominal pain periumbilic,1
+150,Closed fracture of lumbar vertebra without mention of spinal cord injury,8054,closed fracture of lumbar vertebra without mention of spinal cord injury,10
+151,Subarachnoid hemorrhage,430,subarachnoid hemorrhage,1
+152,"Abdominal or pelvic swelling, mass, or lump, other specified site",78939,abdominal or pelvic swelling mass or lump other specified site,3
+153,Acute cholecystitis,5750,acute cholecystitis,5
+154,Non-healing surgical wound,99883,nonhealing surgical wound,1
+155,Acute systolic heart failure,42821,acute systolic heart failure,5
+156,"Paranoid type schizophrenia, unspecified",29530,paranoid type schizophrenia unspecified,6
+157,Abnormality of gait,7812,abnormality of gait,1
+158,Rash and other nonspecific skin eruption,7821,rash and other nonspecific skin eruption,1
+159,Cellulitis and abscess of upper arm and forearm,6823,cellulitis and abscess of upper arm and forearm,1
+160,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",25000,diabetes mellitus without mention of complication type ii or unspecified type not stated as uncontrolled,6
+161,"Systolic heart failure, unspecified",42820,systolic heart failure unspecified,3
+162,Attention to ileostomy,V552,attention to ileostomy,1
+163,"Bipolar I disorder, most recent episode (or current) mixed, severe, without mention of psychotic behavior",29663,bipolar i disorder most recent episode or current mixed severe without mention of psychotic behavior,1
+164,Unspecified disorder of penis,6079,unspecified disorder of penis,7
+165,"Malignant neoplasm of stomach, unspecified site",1519,malignant neoplasm of stomach unspecified site,2
+166,"Malignant neoplasm of bladder, part unspecified",1889,malignant neoplasm of bladder part unspecified,2
+167,Closed fracture of upper end of fibula alone,82301,closed fracture of upper end of fibula alone,10
+168,Nonspecific abnormal electrocardiogram [ECG] [EKG],79431,nonspecific abnormal electrocardiogram ecg ekg,1
+169,Unspecified essential hypertension,4019,unspecified essential hypertension,7
+170,"Cellulitis and abscess of foot, except toes",6827,cellulitis and abscess of foot except toes,1
+171,Intraspinal abscess,3241,intraspinal abscess,1
+172,Pneumonitis due to inhalation of food or vomitus,5070,pneumonitis due to inhalation of food or vomitus,1
+173,"Coronary atherosclerosis of unspecified type of vessel, native or graft",41400,coronary atherosclerosis of unspecified type of vessel native or graft,7
+174,"Pressure ulcer, lower back",70703,pressure ulcer lower back,9
+175,Psychophysical visual disturbances,36816,psychophysical visual disturbances,1
+176,"Torsion of ovary, ovarian pedicle, or fallopian tube",6205,torsion of ovary ovarian pedicle or fallopian tube,1
+177,"Open wound of scalp, without mention of complication",8730,open wound of scalp without mention of complication,0
+178,Hemorrhage of rectum and anus,5693,hemorrhage of rectum and anus,1
+179,"Constipation, unspecified",56400,constipation unspecified,7
+180,Disturbance of skin sensation,7820,disturbance of skin sensation,1
+181,Poisoning by salicylates,9651,poisoning by salicylates,1
+182,Benign neoplasm of colon,2113,benign neoplasm of colon,2
+183,"Schizoaffective disorder, chronic with acute exacerbation",29574,schizoaffective disorder chronic with acute exacerbation,5
+184,Lumbago,7242,lumbago,1
+185,"Renal failure, unspecified",586,renal failure unspecified,7
+186,Unspecified pleural effusion,5119,unspecified pleural effusion,7
+187,Other chest pain,78659,other chest pain,1
+188,Empyema with fistula,5100,empyema with fistula,1
+189,Anal or rectal pain,56942,anal or rectal pain,1
+190,Care involving other physical therapy,V571,care involving other physical therapy,1
+191,Abdominal aneurysm without mention of rupture,4414,abdominal aneurysm without mention of rupture,1
+192,Other complications due to internal joint prosthesis,99677,other complications due to internal joint prosthesis,8
+193,Chronic venous hypertension with other complication,45939,chronic venous hypertension with other complication,3
+194,Hip and thigh injury,9596,hip and thigh injury,1
+195,"Infection and inflammatory reaction due to other genitourinary device, implant, and graft",99665,infection and inflammatory reaction due to other genitourinary device implant and graft,8
+196,Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury,8052,closed fracture of dorsal thoracic vertebra without mention of spinal cord injury,10
+197,Sinoatrial node dysfunction,42781,sinoatrial node dysfunction,1
+198,Unspecified circulatory system disorder,4599,unspecified circulatory system disorder,7
+199,"Mononeuritis of lower limb, unspecified",3558,mononeuritis of lower limb unspecified,9
+200,Unspecified intestinal obstruction,5609,unspecified intestinal obstruction,4
+201,Prolapse of vaginal vault after hysterectomy,6185,prolapse of vaginal vault after hysterectomy,1
+202,"Abdominal or pelvic swelling, mass, or lump, unspecified site",78930,abdominal or pelvic swelling mass or lump unspecified site,7
+203,Closed fracture of unspecified part of fibula with tibia,82382,closed fracture of unspecified part of fibula with tibia,10
+204,"Osteoarthrosis, unspecified whether generalized or localized, shoulder region",71591,osteoarthrosis unspecified whether generalized or localized shoulder region,7
+205,"Abdominal pain, left lower quadrant",78904,abdominal pain left lower quadrant,9
+206,"Cellulitis and abscess of hand, except fingers and thumb",6824,cellulitis and abscess of hand except fingers and thumb,1
+207,"Atherosclerosis of native arteries of the extremities, unspecified",44020,atherosclerosis of native arteries of the extremities unspecified,7
+208,Brachial neuritis or radiculitis NOS,7234,brachial neuritis or radiculitis nos,1
+209,"Mechanical complication of other vascular device, implant, and graft",9961,mechanical complication of other vascular device implant and graft,8
+210,Other pulmonary embolism and infarction,41519,other pulmonary embolism and infarction,1
+211,"Contusion of face, scalp, and neck except eye(s)",920,contusion of face scalp and neck except eyes,1
+212,"Asthma, unspecified type, with (acute) exacerbation",49392,asthma unspecified type with acute exacerbation,5
+213,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified (not specified as recurrent)",55090,inguinal hernia without mention of obstruction or gangrene unilateral or unspecified not specified as recurrent,4
+214,Other persistent mental disorders due to conditions classified elsewhere,2948,other persistent mental disorders due to conditions classified elsewhere,1
+215,"Acute myocardial infarction of inferolateral wall, initial episode of care",41021,acute myocardial infarction of inferolateral wall initial episode of care,5
+216,Hematemesis,5780,hematemesis,1
+217,Alcoholic cirrhosis of liver,5712,alcoholic cirrhosis of liver,1
+218,Vomiting alone,78703,vomiting alone,1
+220,"Malignant neoplasm of liver, primary",1550,malignant neoplasm of liver primary,2
+221,Other sequelae of chronic liver disease,5728,other sequelae of chronic liver disease,3
+222,"Uterovaginal prolapse, unspecified",6184,uterovaginal prolapse unspecified,7
+223,Aftercare following surgery for neoplasm,V5842,aftercare following surgery for neoplasm,2
+224,End stage renal disease,5856,end stage renal disease,3
+225,"Inguinal hernia, with obstruction, without mention of gangrene, unilateral or unspecified (not specified as recurrent)",55010,inguinal hernia with obstruction without mention of gangrene unilateral or unspecified not specified as recurrent,4
+226,"Other complications due to other cardiac device, implant, and graft",99672,other complications due to other cardiac device implant and graft,8
+227,"Swelling, mass, or lump in head and neck",7842,swelling mass or lump in head and neck,1
+228,Acute infective polyneuritis,3570,acute infective polyneuritis,5
+229,"Backache, unspecified",7245,backache unspecified,7
+230,Hyperpotassemia,2767,hyperpotassemia,1
+231,Facial weakness,78194,facial weakness,1
+232,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",40391,hypertensive chronic kidney disease unspecified with chronic kidney disease stage v or end stage renal disease,3
+233,"Disorder of bone and cartilage, unspecified",73390,disorder of bone and cartilage unspecified,7
+234,Complications of transplanted liver,99682,complications of transplanted liver,8
+235,"Acute, but ill-defined, cerebrovascular disease",436,acute but illdefined cerebrovascular disease,5
+236,Observation and evaluation for suspected abuse and neglect,V7181,observation and evaluation for suspected abuse and neglect,1
+237,"Closed fracture of lower end of femur, unspecified part",82120,closed fracture of lower end of femur unspecified part,10
+238,"Bacterial pneumonia, unspecified",4829,bacterial pneumonia unspecified,7
+239,Precordial pain,78651,precordial pain,1
+240,"Volume depletion, unspecified",27650,volume depletion unspecified,7
+241,"Cardiac dysrhythmia, unspecified",4279,cardiac dysrhythmia unspecified,7
+242,Acute pyelonephritis without lesion of renal medullary necrosis,59010,acute pyelonephritis without lesion of renal medullary necrosis,5
+243,Malignant neoplasm of prostate,185,malignant neoplasm of prostate,2
+244,Cellulitis and abscess of unspecified sites,6829,cellulitis and abscess of unspecified sites,7
+245,"Spinal stenosis, lumbar region, without neurogenic claudication",72402,spinal stenosis lumbar region without neurogenic claudication,1
+246,Acute diastolic heart failure,42831,acute diastolic heart failure,5
+247,Unspecified disease of pericardium,4239,unspecified disease of pericardium,3
+248,Delirium due to conditions classified elsewhere,2930,delirium due to conditions classified elsewhere,1
+249,Persistent vomiting,5362,persistent vomiting,1
+250,Other alcohol-induced mental disorders,29189,other alcoholinduced mental disorders,1
+251,Orthostatic hypotension,4580,orthostatic hypotension,1
+252,Closed fracture of patella,8220,closed fracture of patella,10
+253,Displacement of lumbar intervertebral disc without myelopathy,72210,displacement of lumbar intervertebral disc without myelopathy,1
+254,"Calculus of gallbladder and bile duct with other cholecystitis, without mention of obstruction",57470,calculus of gallbladder and bile duct with other cholecystitis without mention of obstruction,4
+255,Incisional ventral hernia with obstruction,55221,incisional ventral hernia with obstruction,4
+256,"Infection and inflammatory reaction due to other vascular device, implant, and graft",99662,infection and inflammatory reaction due to other vascular device implant and graft,8
+257,"Vascular dementia, with delusions",29042,vascular dementia with delusions,1
+258,"Other mechanical complication of other internal orthopedic device, implant, and graft",99649,other mechanical complication of other internal orthopedic device implant and graft,8
+259,"Cerebral artery occlusion, unspecified without mention of cerebral infarction",43490,cerebral artery occlusion unspecified without mention of cerebral infarction,1
+260,"Malignant neoplasm of bronchus and lung, unspecified",1629,malignant neoplasm of bronchus and lung unspecified,2
+261,"Head injury, unspecified",95901,head injury unspecified,7
+262,Neoplasm of unspecified nature of bladder,2394,neoplasm of unspecified nature of bladder,2
+263,Closed anterior dislocation of humerus,83101,closed anterior dislocation of humerus,10
+264,Malignant neoplasm of rectosigmoid junction,1540,malignant neoplasm of rectosigmoid junction,2
+265,"Other pulmonary insufficiency, not elsewhere classified",51882,other pulmonary insufficiency not elsewhere classified,1
+266,Subdural hemorrhage,4321,subdural hemorrhage,1
+267,"Chronic airway obstruction, not elsewhere classified",496,chronic airway obstruction not elsewhere classified,4
+268,Diverticulitis of colon (without mention of hemorrhage),56211,diverticulitis of colon without mention of hemorrhage,1
+269,Atherosclerosis of native arteries of the extremities with intermittent claudication,44021,atherosclerosis of native arteries of the extremities with intermittent claudication,1
+270,"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior",29633,major depressive affective disorder recurrent episode severe without mention of psychotic behavior,1
+271,Other specified retention of urine,78829,other specified retention of urine,3
+272,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with loss of consciousness of unspecified duration",85186,other and unspecified cerebral laceration and contusion without mention of open intracranial wound with loss of consciousness of unspecified duration,0
+273,"Dysplasia of cervix, unspecified",62210,dysplasia of cervix unspecified,7
+274,"Osteoarthrosis, localized, primary, pelvic region and thigh",71515,osteoarthrosis localized primary pelvic region and thigh,1
+275,Open fracture of olecranon process of ulna,81311,open fracture of olecranon process of ulna,10
+276,Other specified cardiac dysrhythmias,42789,other specified cardiac dysrhythmias,3
+277,"Malignant neoplasm of vulva, unspecified site",1844,malignant neoplasm of vulva unspecified site,2
+278,"Bipolar I disorder, most recent episode (or current) mixed, severe, specified as with psychotic behavior",29664,bipolar i disorder most recent episode or current mixed severe specified as with psychotic behavior,3
+279,Secondary malignant neoplasm of large intestine and rectum,1975,secondary malignant neoplasm of large intestine and rectum,2
+280,Other amputation stump complication,99769,other amputation stump complication,1
+281,"Abdominal pain, left upper quadrant",78902,abdominal pain left upper quadrant,1
+282,"Diabetes with hyperosmolarity, type II or unspecified type, not stated as uncontrolled",25020,diabetes with hyperosmolarity type ii or unspecified type not stated as uncontrolled,6
+283,Hallux varus (acquired),7351,hallux varus acquired,1
+284,"Malignant neoplasm of kidney, except pelvis",1890,malignant neoplasm of kidney except pelvis,2
+285,Atherosclerosis of native arteries of the extremities with rest pain,44022,atherosclerosis of native arteries of the extremities with rest pain,1
+286,Other closed fractures of distal end of radius (alone),81342,other closed fractures of distal end of radius alone,10
+287,Epistaxis,7847,epistaxis,1
+288,Acute on chronic combined systolic and diastolic heart failure,42843,acute on chronic combined systolic and diastolic heart failure,5
+289,"Malignant neoplasm of head, face, and neck",1950,malignant neoplasm of head face and neck,2
+290,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled",25002,diabetes mellitus without mention of complication type ii or unspecified type uncontrolled,6
+291,Benign neoplasm of heart,2127,benign neoplasm of heart,2
+292,Carcinoma in situ of other and unspecified digestive organs,2309,carcinoma in situ of other and unspecified digestive organs,7
+293,"Bronchopneumonia, organism unspecified",485,bronchopneumonia organism unspecified,7
+294,Poisoning by phenothiazine-based tranquilizers,9691,poisoning by phenothiazinebased tranquilizers,1
+295,Alcohol withdrawal delirium,2910,alcohol withdrawal delirium,1
+296,Hb-SS disease with crisis,28262,hbss disease with crisis,3
+297,"Calculus of bile duct without mention of cholecystitis, without mention of obstruction",57450,calculus of bile duct without mention of cholecystitis without mention of obstruction,4
+298,Other specified genital prolapse,61889,other specified genital prolapse,3
+299,Adult failure to thrive,7837,adult failure to thrive,1
+300,"Other complications due to other vascular device, implant, and graft",99674,other complications due to other vascular device implant and graft,8
+301,Abscess of anal and rectal regions,566,abscess of anal and rectal regions,1
+302,"Tachycardia, unspecified",7850,tachycardia unspecified,7
+303,Aneurysm of artery of lower extremity,4423,aneurysm of artery of lower extremity,9
+304,Malignant neoplasm of ureter,1892,malignant neoplasm of ureter,2
+305,Unspecified dentofacial anomalies,5249,unspecified dentofacial anomalies,7
+306,"Osteoarthrosis, unspecified whether generalized or localized, other specified sites",71598,osteoarthrosis unspecified whether generalized or localized other specified sites,3
+307,Unspecified condition of brain,3489,unspecified condition of brain,7
+308,Neoplasm of uncertain behavior of pituitary gland and craniopharyngeal duct,2370,neoplasm of uncertain behavior of pituitary gland and craniopharyngeal duct,2
+309,Other acute pain,33819,other acute pain,5
+310,Intestinal or peritoneal adhesions with obstruction (postoperative) (postinfection),56081,intestinal or peritoneal adhesions with obstruction postoperative postinfection,1
+311,Unspecified intracranial hemorrhage,4329,unspecified intracranial hemorrhage,0
+312,Edema,7823,edema,1
+313,Gastroesophageal laceration-hemorrhage syndrome,5307,gastroesophageal lacerationhemorrhage syndrome,1
+314,"Open wound of knee, leg [except thigh], and ankle, complicated",8911,open wound of knee leg except thigh and ankle complicated,0
+315,Mitral valve disorders,4240,mitral valve disorders,1
+316,Contusion of abdominal wall,9222,contusion of abdominal wall,1
+317,"Osteoarthrosis, localized, primary, lower leg",71516,osteoarthrosis localized primary lower leg,9
+318,Other iatrogenic hypotension,45829,other iatrogenic hypotension,1
+319,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease",40301,hypertensive chronic kidney disease malignant with chronic kidney disease stage v or end stage renal disease,3
+320,Diplopia,3682,diplopia,1
+321,"Arthropathy, unspecified, site unspecified",71690,arthropathy unspecified site unspecified,7
+322,Postsurgical hypothyroidism,2440,postsurgical hypothyroidism,1
+323,Late effect of intracranial injury without mention of skull fracture,9070,late effect of intracranial injury without mention of skull fracture,0
+324,"Debility, unspecified",7993,debility unspecified,7
+325,"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior",29634,major depressive affective disorder recurrent episode severe specified as with psychotic behavior,3
+326,Erysipelas,035,erysipelas,1
+327,Malignant neoplasm of descending colon,1532,malignant neoplasm of descending colon,2
+328,Other postoperative infection,99859,other postoperative infection,1
+329,"Malignant neoplasm of liver, secondary",1977,malignant neoplasm of liver secondary,2
+330,Other bipolar disorders,29689,other bipolar disorders,1
+331,Difficulty in walking,7197,difficulty in walking,1
+332,Full-thickness skin loss [third degree NOS] of foot,94532,fullthickness skin loss third degree nos of foot,1
+333,"Acute myocardial infarction of unspecified site, initial episode of care",41091,acute myocardial infarction of unspecified site initial episode of care,5
+334,"Retention of urine, unspecified",78820,retention of urine unspecified,7
+335,"Pressure ulcer, other site",70709,pressure ulcer other site,1
+336,Other specified disorders of rectum and anus,56949,other specified disorders of rectum and anus,3
+337,"Abdominal or pelvic swelling, mass, or lump, right lower quadrant",78933,abdominal or pelvic swelling mass or lump right lower quadrant,9
+338,Ulcer of other part of lower limb,70719,ulcer of other part of lower limb,9
+339,Rectal prolapse,5691,rectal prolapse,1
+340,Bladder neck obstruction,5960,bladder neck obstruction,4
+341,"Pyogenic arthritis, lower leg",71106,pyogenic arthritis lower leg,9
+342,Neoplasm related pain (acute) (chronic),3383,neoplasm related pain acute chronic,5
+343,Other specified disorders of gallbladder,5758,other specified disorders of gallbladder,3
+344,Malignant pleural effusion,51181,malignant pleural effusion,2
+345,"Urinary complications, not elsewhere classified",9975,urinary complications not elsewhere classified,8
+346,Malignant essential hypertension,4010,malignant essential hypertension,2
+347,Acute bronchitis,4660,acute bronchitis,5
+348,Alzheimer's disease,3310,alzheimers disease,3
+349,Hypercalcemia,27542,hypercalcemia,1
+350,"Bipolar I disorder, most recent episode (or current) depressed, severe, without mention of psychotic behavior",29653,bipolar i disorder most recent episode or current depressed severe without mention of psychotic behavior,1
+351,Disruption of external operation (surgical) wound,99832,disruption of external operation surgical wound,1
+352,Other shock without mention of trauma,78559,other shock without mention of trauma,1
+353,Closed fracture of shaft of humerus,81221,closed fracture of shaft of humerus,10
+354,Secondary malignant neoplasm of bone and bone marrow,1985,secondary malignant neoplasm of bone and bone marrow,2
+355,Other ventral hernia without mention of obstruction or gangrene,55329,other ventral hernia without mention of obstruction or gangrene,4
+356,"Other and unspecified alcohol dependence, unspecified",30390,other and unspecified alcohol dependence unspecified,7
+357,"Jaundice, unspecified, not of newborn",7824,jaundice unspecified not of newborn,7
+358,Unspecified hypertrophic and atrophic conditions of skin,7019,unspecified hypertrophic and atrophic conditions of skin,7
+359,Ulcer of other part of foot,70715,ulcer of other part of foot,1
+360,Regional enteritis of small intestine with large intestine,5552,regional enteritis of small intestine with large intestine,1
+361,Acute posthemorrhagic anemia,2851,acute posthemorrhagic anemia,5
+362,Malignant neoplasm of rectum,1541,malignant neoplasm of rectum,2
+363,"Open wound of knee, leg [except thigh], and ankle, without mention of complication",8910,open wound of knee leg except thigh and ankle without mention of complication,0
+364,Idiopathic normal pressure hydrocephalus (INPH),3315,idiopathic normal pressure hydrocephalus inph,1
+365,"Paralysis, unspecified",3449,paralysis unspecified,7
+366,Hypothermia,9916,hypothermia,1
+367,Inflammatory disease of breast,6110,inflammatory disease of breast,3
+368,Abnormal coagulation profile,79092,abnormal coagulation profile,1
+369,"Asthma, unspecified type, unspecified",49390,asthma unspecified type unspecified,6
+370,"Pressure ulcer, heel",70707,pressure ulcer heel,1
+371,"Disorders of bursae and tendons in shoulder region, unspecified",72610,disorders of bursae and tendons in shoulder region unspecified,7
+372,Other acquired deformities of hip,73639,other acquired deformities of hip,1
+373,"Acute myocardial infarction of other inferior wall, initial episode of care",41041,acute myocardial infarction of other inferior wall initial episode of care,5
+374,Mechanical complication due to cardiac pacemaker (electrode),99601,mechanical complication due to cardiac pacemaker electrode,1
+375,Regional enteritis of unspecified site,5559,regional enteritis of unspecified site,7
+376,Closed fracture of second cervical vertebra,80502,closed fracture of second cervical vertebra,10
+377,"Acute myocardial infarction of other specified sites, initial episode of care",41081,acute myocardial infarction of other specified sites initial episode of care,5
+378,"Myalgia and myositis, unspecified",7291,myalgia and myositis unspecified,7
+379,Poisoning by unspecified drug or medicinal substance,9779,poisoning by unspecified drug or medicinal substance,7
+380,Closed fracture of shaft of femur,82101,closed fracture of shaft of femur,10
+381,"Urethritis, unspecified",59780,urethritis unspecified,7
+382,Cervicalgia,7231,cervicalgia,1
+383,Malignant neoplasm of glottis,1610,malignant neoplasm of glottis,2
+384,Closed fracture of metatarsal bone(s),82525,closed fracture of metatarsal bones,10
+385,Other impaction of intestine,56039,other impaction of intestine,1
+386,"Neutropenia, unspecified",28800,neutropenia unspecified,7
+387,"Malignant neoplasm of pancreas, part unspecified",1579,malignant neoplasm of pancreas part unspecified,2
+388,Muscle weakness (generalized),72887,muscle weakness generalized,1
+389,Morbid obesity,27801,morbid obesity,1
+390,"Myelodysplastic syndrome, unspecified",23875,myelodysplastic syndrome unspecified,7
+391,Conversion disorder,30011,conversion disorder,1
+392,"Unspecified schizophrenia, chronic",29592,unspecified schizophrenia chronic,3
+393,Unspecified episodic mood disorder,29690,unspecified episodic mood disorder,7
+394,Cellulitis and abscess of buttock,6825,cellulitis and abscess of buttock,1
+395,"Leiomyoma of uterus, unspecified",2189,leiomyoma of uterus unspecified,7
+396,Sialoadenitis,5272,sialoadenitis,1
+397,Mechanical complication of automatic implantable cardiac defibrillator,99604,mechanical complication of automatic implantable cardiac defibrillator,1
+398,"Malignant neoplasm of lower lobe, bronchus or lung",1625,malignant neoplasm of lower lobe bronchus or lung,2
+399,"Poisoning by opium (alkaloids), unspecified",96500,poisoning by opium alkaloids unspecified,7
+400,Cervical spondylosis with myelopathy,7211,cervical spondylosis with myelopathy,1
+401,Closed fracture of lower end of radius with ulna,81344,closed fracture of lower end of radius with ulna,10
+402,Unspecified deficiency anemia,2819,unspecified deficiency anemia,7
+403,Encounter for antineoplastic chemotherapy,V5811,encounter for antineoplastic chemotherapy,1
+404,Other ventral hernia with obstruction,55229,other ventral hernia with obstruction,4
+405,"Neoplasm of uncertain behavior of stomach, intestines, and rectum",2352,neoplasm of uncertain behavior of stomach intestines and rectum,2
+406,"Unspecified osteomyelitis, other specified sites",73028,unspecified osteomyelitis other specified sites,3
+407,"Abdominal pain, right upper quadrant",78901,abdominal pain right upper quadrant,1
+408,"Traumatic arthropathy, pelvic region and thigh",71615,traumatic arthropathy pelvic region and thigh,1
+409,"Other and unspecified special symptoms or syndromes, not elsewhere classified",3079,other and unspecified special symptoms or syndromes not elsewhere classified,7
+410,Closed fracture of olecranon process of ulna,81301,closed fracture of olecranon process of ulna,10
+411,"Acute duodenal ulcer with hemorrhage, without mention of obstruction",53200,acute duodenal ulcer with hemorrhage without mention of obstruction,4
+412,"Fistula of intestine, excluding rectum and anus",56981,fistula of intestine excluding rectum and anus,1
+413,"Acute lymphoid leukemia, without mention of having achieved remission",20400,acute lymphoid leukemia without mention of having achieved remission,5
+414,"Chronic ischemic heart disease, unspecified",4149,chronic ischemic heart disease unspecified,3
+415,Closed fracture of unspecified part of upper end of humerus,81200,closed fracture of unspecified part of upper end of humerus,10
+416,Ulcer of esophagus without bleeding,53020,ulcer of esophagus without bleeding,1
+417,Chronic respiratory failure,51883,chronic respiratory failure,3
+418,Spontaneous tension pneumothorax,5120,spontaneous tension pneumothorax,1
+419,"Unilateral paralysis of vocal cords or larynx, partial",47831,unilateral paralysis of vocal cords or larynx partial,1
+420,"Closed dislocation of hip, unspecified site",83500,closed dislocation of hip unspecified site,7
+421,Malignant neoplasm of cecum,1534,malignant neoplasm of cecum,2
+422,"Abdominal pain, generalized",78907,abdominal pain generalized,1
+423,Acute on chronic diastolic heart failure,42833,acute on chronic diastolic heart failure,5
+424,"Infection and inflammatory reaction due to other internal orthopedic device, implant, and graft",99667,infection and inflammatory reaction due to other internal orthopedic device implant and graft,8
+425,"Neoplasm of uncertain behavior of lip, oral cavity, and pharynx",2351,neoplasm of uncertain behavior of lip oral cavity and pharynx,1
+426,Pain in or around eye,37991,pain in or around eye,1
+427,Methicillin resistant pneumonia due to Staphylococcus aureus,48242,methicillin resistant pneumonia due to staphylococcus aureus,1
+428,Bronchiectasis without acute exacerbation,4940,bronchiectasis without acute exacerbation,5
+429,Herpes zoster dermatitis of eyelid,05320,herpes zoster dermatitis of eyelid,1
+430,"Systemic inflammatory response syndrome, unspecified",99590,systemic inflammatory response syndrome unspecified,7
+431,"Generalized convulsive epilepsy, without mention of intractable epilepsy",34510,generalized convulsive epilepsy without mention of intractable epilepsy,1
+432,Peri-prosthetic osteolysis,99645,periprosthetic osteolysis,1
+433,Other nonspecific abnormal serum enzyme levels,7905,other nonspecific abnormal serum enzyme levels,1
+434,Other acquired deformities of knee,7366,other acquired deformities of knee,1
+435,"Intervertebral disc disorder with myelopathy, cervical region",72271,intervertebral disc disorder with myelopathy cervical region,1
+436,"Iron deficiency anemia, unspecified",2809,iron deficiency anemia unspecified,7
+437,"Calculus of bile duct with acute cholecystitis, without mention of obstruction",57430,calculus of bile duct with acute cholecystitis without mention of obstruction,4
+438,Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity,45340,acute venous embolism and thrombosis of unspecified deep vessels of lower extremity,9
+439,Infection and inflammatory reaction due to internal joint prosthesis,99666,infection and inflammatory reaction due to internal joint prosthesis,1
+440,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, unspecified state of consciousness",85180,other and unspecified cerebral laceration and contusion without mention of open intracranial wound unspecified state of consciousness,0
+441,Cellulitis and abscess of neck,6821,cellulitis and abscess of neck,1
+442,Cholangitis,5761,cholangitis,1
+443,Malignant neoplasm of ovary,1830,malignant neoplasm of ovary,2
+444,"Acute alcoholic intoxication in alcoholism, unspecified",30300,acute alcoholic intoxication in alcoholism unspecified,5
+445,"Open wound of wrist, without mention of complication",88102,open wound of wrist without mention of complication,0
+446,Embolism and thrombosis of iliac artery,44481,embolism and thrombosis of iliac artery,1
+447,Malignant neoplasm of upper-outer quadrant of female breast,1744,malignant neoplasm of upperouter quadrant of female breast,2
+448,Lumbosacral spondylosis without myelopathy,7213,lumbosacral spondylosis without myelopathy,1
+449,"Malignant neoplasm of corpus uteri, except isthmus",1820,malignant neoplasm of corpus uteri except isthmus,2
+450,"Elderly multigravida, delivered with or without mention of antepartum condition",65961,elderly multigravida delivered with or without mention of antepartum condition,1
+451,Nonspecific abnormal findings in stool contents,7921,nonspecific abnormal findings in stool contents,1
+452,Paralytic ileus,5601,paralytic ileus,1
+453,"Other diseases of lung, not elsewhere classified",51889,other diseases of lung not elsewhere classified,1
+454,"Cystitis, unspecified",5959,cystitis unspecified,7
+455,Traumatic hemothorax without mention of open wound into thorax,8602,traumatic hemothorax without mention of open wound into thorax,0
+456,Other venous embolism and thrombosis of unspecified site,4539,other venous embolism and thrombosis of unspecified site,7
+457,"Hemiplegia, unspecified, affecting unspecified side",34290,hemiplegia unspecified affecting unspecified side,7
+458,"Major depressive affective disorder, recurrent episode, unspecified",29630,major depressive affective disorder recurrent episode unspecified,7
+459,"Bipolar I disorder, most recent episode (or current) depressed, severe, specified as with psychotic behavior",29654,bipolar i disorder most recent episode or current depressed severe specified as with psychotic behavior,3
+460,Gangrene,7854,gangrene,1
+461,"Dissection of aorta, thoracic",44101,dissection of aorta thoracic,1
+462,Disruption of internal operation (surgical) wound,99831,disruption of internal operation surgical wound,1
+463,Poisoning by other and unspecified anticonvulsants,9663,poisoning by other and unspecified anticonvulsants,7
+464,Unspecified site injury,9599,unspecified site injury,7
+465,Rheumatoid arthritis,7140,rheumatoid arthritis,1
+466,"Diabetes with ketoacidosis, type II or unspecified type, uncontrolled",25012,diabetes with ketoacidosis type ii or unspecified type uncontrolled,6
+467,"Arthropathy, unspecified, lower leg",71696,arthropathy unspecified lower leg,9
+468,Paroxysmal ventricular tachycardia,4271,paroxysmal ventricular tachycardia,1
+469,Dementia with lewy bodies,33182,dementia with lewy bodies,1
+470,"Diabetes with unspecified complication, type II or unspecified type, uncontrolled",25092,diabetes with unspecified complication type ii or unspecified type uncontrolled,6
+471,"Cocaine dependence, unspecified",30420,cocaine dependence unspecified,7
+472,Influenza with other respiratory manifestations,4871,influenza with other respiratory manifestations,1
+473,Acquired spondylolisthesis,7384,acquired spondylolisthesis,1
+474,Ill-defined closed fractures of upper limb,8180,illdefined closed fractures of upper limb,1
+475,Parapharyngeal abscess,47822,parapharyngeal abscess,1
+476,"Unspecified polyarthropathy or polyarthritis, site unspecified",71650,unspecified polyarthropathy or polyarthritis site unspecified,7
+477,Unspecified renovascular hypertension,40591,unspecified renovascular hypertension,7
+478,"Calculus of gallbladder with acute cholecystitis, without mention of obstruction",57400,calculus of gallbladder with acute cholecystitis without mention of obstruction,4
+479,Severe sepsis,99592,severe sepsis,1
+480,"Blisters, epidermal loss [second degree] of upper arm",94323,blisters epidermal loss second degree of upper arm,1
+481,Chronic ulcer of unspecified site,7079,chronic ulcer of unspecified site,7
+482,"Diabetes with other specified manifestations, type I [juvenile type], uncontrolled",25083,diabetes with other specified manifestations type i juvenile type uncontrolled,6
+483,"Late effects of cerebrovascular disease, speech and language deficit, unspecified",43810,late effects of cerebrovascular disease speech and language deficit unspecified,3
+484,"Other specified types of schizophrenia, unspecified",29580,other specified types of schizophrenia unspecified,3
+485,Malignant neoplasm of sigmoid colon,1533,malignant neoplasm of sigmoid colon,2
+486,"Unspecified drug dependence, unspecified",30490,unspecified drug dependence unspecified,7
+487,"Endometriosis, site unspecified",6179,endometriosis site unspecified,7
+488,Acute bronchospasm,51911,acute bronchospasm,5
+489,Other drug allergy,99527,other drug allergy,1
+490,Care involving unspecified rehabilitation procedure,V579,care involving unspecified rehabilitation procedure,7
+491,Postinflammatory pulmonary fibrosis,515,postinflammatory pulmonary fibrosis,1
+492,"Bimalleolar fracture, closed",8244,bimalleolar fracture closed,10
+493,Rectocele,61804,rectocele,1
+494,Acute apical periodontitis of pulpal origin,5224,acute apical periodontitis of pulpal origin,5
+495,Pneumonia due to mycoplasma pneumoniae,4830,pneumonia due to mycoplasma pneumoniae,1
+496,Aseptic necrosis of head and neck of femur,73342,aseptic necrosis of head and neck of femur,1
+497,Other specified disorders of skin,7098,other specified disorders of skin,3
+498,Acute venous embolism and thrombosis of deep vessels of distal lower extremity,45342,acute venous embolism and thrombosis of deep vessels of distal lower extremity,9
+499,Malignant neoplasm of temporal lobe,1912,malignant neoplasm of temporal lobe,2
+500,"Acute myeloid leukemia, without mention of having achieved remission",20500,acute myeloid leukemia without mention of having achieved remission,5
+501,"Open wound of hip and thigh, without mention of complication",8900,open wound of hip and thigh without mention of complication,0
+502,Hyperosmolality and/or hypernatremia,2760,hyperosmolality andor hypernatremia,1
+503,Mucositis (ulcerative) due to antineoplastic therapy,52801,mucositis ulcerative due to antineoplastic therapy,1
+504,"Encephalopathy, unspecified",34830,encephalopathy unspecified,7
+505,"Cystocele, lateral",61802,cystocele lateral,1
+506,Paralysis agitans,3320,paralysis agitans,1
+507,"Cellulitis and abscess of toe, unspecified",68110,cellulitis and abscess of toe unspecified,7
+508,"Opioid type dependence, unspecified",30400,opioid type dependence unspecified,6
+509,"Intracranial injury of other and unspecified nature without mention of open intracranial wound, with no loss of consciousness",85401,intracranial injury of other and unspecified nature without mention of open intracranial wound with no loss of consciousness,0
+510,Displacement of cervical intervertebral disc without myelopathy,7220,displacement of cervical intervertebral disc without myelopathy,1
+511,Lack of coordination,7813,lack of coordination,1
+512,Iatrogenic pneumothorax,5121,iatrogenic pneumothorax,1
+513,"Other diseases of respiratory system, not elsewhere classified",5198,other diseases of respiratory system not elsewhere classified,1
+514,Contusion of hip,92401,contusion of hip,1
+515,Other colostomy and enterostomy complication,56969,other colostomy and enterostomy complication,1
+516,"Pain in joint, upper arm",71942,pain in joint upper arm,1
+517,Neoplasm of unspecified nature of other genitourinary organs,2395,neoplasm of unspecified nature of other genitourinary organs,2
+518,Gastrointestinal vessel anomaly,74761,gastrointestinal vessel anomaly,1
+519,Mechanical loosening of prosthetic joint,99641,mechanical loosening of prosthetic joint,1
+520,"Trimalleolar fracture, closed",8246,trimalleolar fracture closed,10
+521,"Malignant neoplasm of colon, unspecified site",1539,malignant neoplasm of colon unspecified site,2
+522,"Bacterial enteritis, unspecified",0085,bacterial enteritis unspecified,7
+523,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with prolonged [more than 24 hours] loss of consciousness without return to pre-existing conscious level",85185,other and unspecified cerebral laceration and contusion without mention of open intracranial wound with prolonged more than 24 hours loss of consciousness without return to preexisting conscious level,0
+524,"Aseptic necrosis of bone, other",73349,aseptic necrosis of bone other,1
+525,Calculus of ureter,5921,calculus of ureter,1
+526,Rotator cuff (capsule) sprain,8404,rotator cuff capsule sprain,1
+527,Closed fracture of one rib,80701,closed fracture of one rib,10
+528,Complications of transplanted kidney,99681,complications of transplanted kidney,8
+529,Hypopotassemia,2768,hypopotassemia,1
+530,"Cerebral aneurysm, nonruptured",4373,cerebral aneurysm nonruptured,1
+531,Cystic fibrosis with pulmonary manifestations,27702,cystic fibrosis with pulmonary manifestations,1
+532,"Abnormal cardiovascular function study, unspecified",79430,abnormal cardiovascular function study unspecified,7
+533,Bacteremia,7907,bacteremia,1
+534,"Pyelonephritis, unspecified",59080,pyelonephritis unspecified,7
+535,Orbital cellulitis,37601,orbital cellulitis,1
+536,Occlusion and stenosis of basilar artery with cerebral infarction,43301,occlusion and stenosis of basilar artery with cerebral infarction,1
+537,Open fracture of unspecified part of neck of femur,8209,open fracture of unspecified part of neck of femur,10
+538,"Abdominal aneurysm, ruptured",4413,abdominal aneurysm ruptured,1
+539,Dysuria,7881,dysuria,1
+540,Multiple sclerosis,340,multiple sclerosis,1
+541,Wheezing,78607,wheezing,1
+542,Other suppurative peritonitis,56729,other suppurative peritonitis,1
+543,Ulcer of heel and midfoot,70714,ulcer of heel and midfoot,1
+544,"Closed fracture of carpal bone, unspecified",81400,closed fracture of carpal bone unspecified,10
+545,Secondary malignant neoplasm of skin,1982,secondary malignant neoplasm of skin,2
+546,"Thrombocytopenia, unspecified",2875,thrombocytopenia unspecified,7
+547,"Acute alcoholic intoxication in alcoholism, continuous",30301,acute alcoholic intoxication in alcoholism continuous,5
+548,Reflux esophagitis,53011,reflux esophagitis,1
+549,Other symptoms referable to back,7248,other symptoms referable to back,1
+550,Nontoxic multinodular goiter,2411,nontoxic multinodular goiter,1
+551,"Angioneurotic edema, not elsewhere classified",9951,angioneurotic edema not elsewhere classified,1
+552,"Intestinal infection due to other organism, not elsewhere classified",0088,intestinal infection due to other organism not elsewhere classified,1
+553,Cellulitis and abscess of trunk,6822,cellulitis and abscess of trunk,1
+554,Cellulitis and abscess of face,6820,cellulitis and abscess of face,1
+555,Drug withdrawal,2920,drug withdrawal,1
+556,"Digestive-genital tract fistula, female",6191,digestivegenital tract fistula female,1
+557,"Osteoarthrosis, localized, not specified whether primary or secondary, shoulder region",71531,osteoarthrosis localized not specified whether primary or secondary shoulder region,3
+558,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, with brief [less than one hour] loss of consciousness",85302,other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound with brief less than one hour loss of consciousness,0
+559,Acute appendicitis without mention of peritonitis,5409,acute appendicitis without mention of peritonitis,5
+560,Chronic systolic heart failure,42822,chronic systolic heart failure,3
+561,Alcohol withdrawal,29181,alcohol withdrawal,1
+562,"Subdural hemorrhage following injury without mention of open intracranial wound, with concussion, unspecified",85229,subdural hemorrhage following injury without mention of open intracranial wound with concussion unspecified,0
+563,Complications of transplanted lung,99684,complications of transplanted lung,8
+564,Unspecified disease of pancreas,5779,unspecified disease of pancreas,3
+565,"Open wound of scalp, complicated",8731,open wound of scalp complicated,0
+566,Closed fracture of trochanteric section of neck of femur,82020,closed fracture of trochanteric section of neck of femur,10
+567,Atherosclerosis of native arteries of the extremities with ulceration,44023,atherosclerosis of native arteries of the extremities with ulceration,1
+568,Persistent postoperative fistula,9986,persistent postoperative fistula,1
+569,"Simple type schizophrenia, unspecified",29500,simple type schizophrenia unspecified,6
+570,"Cellulitis and abscess of finger, unspecified",68100,cellulitis and abscess of finger unspecified,7
+571,Colostomy status,V443,colostomy status,1
+572,Other chronic pulmonary heart diseases,4168,other chronic pulmonary heart diseases,3
+573,Other specified intestinal obstruction,56089,other specified intestinal obstruction,4
+574,Unspecified symptom associated with female genital organs,6259,unspecified symptom associated with female genital organs,7
+575,Other nonspecific abnormal results of function study of cardiovascular system,79439,other nonspecific abnormal results of function study of cardiovascular system,1
+576,Other abnormal glucose,79029,other abnormal glucose,1
+577,Infection (chronic) of amputation stump,99762,infection chronic of amputation stump,3
+578,Benign neoplasm of cerebral meninges,2252,benign neoplasm of cerebral meninges,2
+579,"Chronic lymphoid leukemia, without mention of having achieved remission",20410,chronic lymphoid leukemia without mention of having achieved remission,1
+580,Closed fracture of acetabulum,8080,closed fracture of acetabulum,10
+581,"Alcohol abuse, unspecified",30500,alcohol abuse unspecified,7
+582,"Sickle-cell disease, unspecified",28260,sicklecell disease unspecified,3
+583,Observation for unspecified suspected condition,V719,observation for unspecified suspected condition,7
+584,Methicillin susceptible Staphylococcus aureus septicemia,03811,methicillin susceptible staphylococcus aureus septicemia,1
+585,Encounter for radiotherapy,V580,encounter for radiotherapy,1
+586,Unspecified sinusitis (chronic),4739,unspecified sinusitis chronic,3
+587,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia],481,pneumococcal pneumonia streptococcus pneumoniae pneumonia,1
+588,"Paranoid type schizophrenia, chronic",29532,paranoid type schizophrenia chronic,6
+589,Other emphysema,4928,other emphysema,1
+590,"Multiple myeloma, without mention of having achieved remission",20300,multiple myeloma without mention of having achieved remission,1
+591,"Subdural hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",85221,subdural hemorrhage following injury without mention of open intracranial wound with no loss of consciousness,0
+592,Unspecified persistent mental disorders due to conditions classified elsewhere,2949,unspecified persistent mental disorders due to conditions classified elsewhere,7
+593,Closed fracture of surgical neck of humerus,81201,closed fracture of surgical neck of humerus,10
+594,Respiratory arrest,7991,respiratory arrest,1
+595,"Osteoarthrosis, unspecified whether generalized or localized, site unspecified",71590,osteoarthrosis unspecified whether generalized or localized site unspecified,7
+596,"Open wound of foot except toe(s) alone, without mention of complication",8920,open wound of foot except toes alone without mention of complication,0
+597,Encounter for therapeutic drug monitoring,V5883,encounter for therapeutic drug monitoring,1
+598,"Spondylosis with myelopathy, thoracic region",72141,spondylosis with myelopathy thoracic region,1
+599,"Subdural hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",85220,subdural hemorrhage following injury without mention of open intracranial wound unspecified state of consciousness,0
+600,Malignant neoplasm of other specified sites of bladder,1888,malignant neoplasm of other specified sites of bladder,2
+601,Pulmonary collapse,5180,pulmonary collapse,1
+602,Pain in thoracic spine,7241,pain in thoracic spine,1
+603,Homonymous bilateral field defects,36846,homonymous bilateral field defects,1
+604,Abscess of eyelid,37313,abscess of eyelid,1
+605,Cardiac arrest,4275,cardiac arrest,1
+606,"Calculus of gallbladder without mention of cholecystitis, with obstruction",57421,calculus of gallbladder without mention of cholecystitis with obstruction,4
+607,Sarcoidosis,135,sarcoidosis,1
+608,Other ill-defined conditions,79989,other illdefined conditions,1
+609,"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",40401,hypertensive heart and chronic kidney disease malignant with heart failure and with chronic kidney disease stage i through stage iv or unspecified,3
+610,Septicemia due to pseudomonas,03843,septicemia due to pseudomonas,1
+611,Other esophagitis,53019,other esophagitis,1
+612,Other specified noninflammatory disorders of vagina,6238,other specified noninflammatory disorders of vagina,3
+613,Edema of male genital organs,60886,edema of male genital organs,1
+614,Hematoma complicating a procedure,99812,hematoma complicating a procedure,1
+615,Hypotension of hemodialysis,45821,hypotension of hemodialysis,1
+616,"Other named variants of lymphosarcoma and reticulosarcoma, unspecified site, extranodal and solid organ sites",20080,other named variants of lymphosarcoma and reticulosarcoma unspecified site extranodal and solid organ sites,7
+617,"Atrioventricular block, complete",4260,atrioventricular block complete,1
+618,"Closed fracture of clavicle, unspecified part",81000,closed fracture of clavicle unspecified part,10
+619,Toxic multinodular goiter without mention of thyrotoxic crisis or storm,24220,toxic multinodular goiter without mention of thyrotoxic crisis or storm,1
+620,Poisoning by other antihypertensive agents,9726,poisoning by other antihypertensive agents,1
+621,Methicillin susceptible pneumonia due to Staphylococcus aureus,48241,methicillin susceptible pneumonia due to staphylococcus aureus,1
+622,"Other malignant lymphomas, lymph nodes of head, face, and neck",20281,other malignant lymphomas lymph nodes of head face and neck,1
+623,"Pressure ulcer, hip",70704,pressure ulcer hip,1
+624,Atherosclerosis of renal artery,4401,atherosclerosis of renal artery,1
+625,Glossopharyngeal neuralgia,3521,glossopharyngeal neuralgia,1
+626,Other septicemia due to gram-negative organisms,03849,other septicemia due to gramnegative organisms,1
+627,"Other current conditions classifiable elsewhere of mother, antepartum condition or complication",64893,other current conditions classifiable elsewhere of mother antepartum condition or complication,1
+628,"Spinal stenosis, unspecified region",72400,spinal stenosis unspecified region,7
+629,Acidosis,2762,acidosis,1
+630,Unspecified disorder of bladder,5969,unspecified disorder of bladder,7
+631,Contusion of knee,92411,contusion of knee,1
+632,Encounter for extracorporeal dialysis,V560,encounter for extracorporeal dialysis,1
+633,"Pain in joint, shoulder region",71941,pain in joint shoulder region,1
+634,Other ureteric obstruction,5934,other ureteric obstruction,4
+635,Open fracture of middle or proximal phalanx or phalanges of hand,81611,open fracture of middle or proximal phalanx or phalanges of hand,1
+636,Unspecified disease of spinal cord,3369,unspecified disease of spinal cord,3
+637,Coronary atherosclerosis of autologous vein bypass graft,41402,coronary atherosclerosis of autologous vein bypass graft,1
+638,Streptococcal septicemia,0380,streptococcal septicemia,1
+639,"Closed fracture of mandible, subcondylar",80222,closed fracture of mandible subcondylar,10
+640,"Rupture of bladder, nontraumatic",5966,rupture of bladder nontraumatic,1
+641,"Combinations of opioid type drug with any other drug dependence, continuous",30471,combinations of opioid type drug with any other drug dependence continuous,6
+642,"Diabetes mellitus without mention of complication, type I [juvenile type], uncontrolled",25003,diabetes mellitus without mention of complication type i juvenile type uncontrolled,6
+643,Chronic obstructive asthma with status asthmaticus,49321,chronic obstructive asthma with status asthmaticus,3
+644,"Thoracic or lumbosacral neuritis or radiculitis, unspecified",7244,thoracic or lumbosacral neuritis or radiculitis unspecified,7
+645,Other dysphagia,78729,other dysphagia,1
+646,"Calculus of gallbladder and bile duct with acute and chronic cholecystitis, without mention of obstruction",57480,calculus of gallbladder and bile duct with acute and chronic cholecystitis without mention of obstruction,4
+647,Diverticulitis of colon with hemorrhage,56213,diverticulitis of colon with hemorrhage,1
+648,"Thoracic aneurysm, ruptured",4411,thoracic aneurysm ruptured,1
+649,Diverticulosis of colon with hemorrhage,56212,diverticulosis of colon with hemorrhage,1
+650,Concussion with no loss of consciousness,8500,concussion with no loss of consciousness,0
+651,"Cardiovascular disease, unspecified",4292,cardiovascular disease unspecified,3
+652,Poisoning by benzodiazepine-based tranquilizers,9694,poisoning by benzodiazepinebased tranquilizers,1
+653,Malignant neoplasm of duodenum,1520,malignant neoplasm of duodenum,2
+654,Mechanical complication of colostomy and enterostomy,56962,mechanical complication of colostomy and enterostomy,1
+655,Supervision of other normal pregnancy,V221,supervision of other normal pregnancy,1
+656,"Closed fracture of mandible, symphysis of body",80226,closed fracture of mandible symphysis of body,10
+657,Other calculus in bladder,5941,other calculus in bladder,1
+658,Other specified peripheral vascular diseases,44389,other specified peripheral vascular diseases,3
+659,Esophageal reflux,53081,esophageal reflux,1
+660,Elevated sedimentation rate,7901,elevated sedimentation rate,1
+661,Angiodysplasia of stomach and duodenum with hemorrhage,53783,angiodysplasia of stomach and duodenum with hemorrhage,1
+662,"Spinal stenosis, thoracic region",72401,spinal stenosis thoracic region,1
+663,"Bipolar I disorder, most recent episode (or current) unspecified",2967,bipolar i disorder most recent episode or current unspecified,7
+664,Pilonidal cyst with abscess,6850,pilonidal cyst with abscess,1
+665,"Infectious colitis, enteritis, and gastroenteritis",0090,infectious colitis enteritis and gastroenteritis,1
+666,"Combinations of drug dependence excluding opioid type drug, in remission",30483,combinations of drug dependence excluding opioid type drug in remission,6
+667,"Opioid type dependence, continuous",30401,opioid type dependence continuous,6
+668,Closed fracture of first cervical vertebra,80501,closed fracture of first cervical vertebra,10
+669,Nontraumatic hematoma of soft tissue,72992,nontraumatic hematoma of soft tissue,1
+670,"Diabetes with other specified manifestations, type I [juvenile type], not stated as uncontrolled",25081,diabetes with other specified manifestations type i juvenile type not stated as uncontrolled,6
+671,"Calculus of gallbladder with other cholecystitis, without mention of obstruction",57410,calculus of gallbladder with other cholecystitis without mention of obstruction,4
+672,Thoracic aneurysm without mention of rupture,4412,thoracic aneurysm without mention of rupture,1
+673,"Bipolar I disorder, most recent episode (or current) depressed, moderate",29652,bipolar i disorder most recent episode or current depressed moderate,1
+674,Contusion of orbital tissues,9212,contusion of orbital tissues,1
+675,Other specified aplastic anemias,28489,other specified aplastic anemias,3
+676,Acute appendicitis with generalized peritonitis,5400,acute appendicitis with generalized peritonitis,5
+677,Nonunion of fracture,73382,nonunion of fracture,10
+678,"Hyperplasia of prostate, unspecified, with urinary obstruction and other lower urinary symptoms (LUTS)",60091,hyperplasia of prostate unspecified with urinary obstruction and other lower urinary symptoms luts,9
+679,"Senile dementia, uncomplicated",2900,senile dementia uncomplicated,1
+680,Contusion of upper arm,92303,contusion of upper arm,1
+681,Paroxysmal supraventricular tachycardia,4270,paroxysmal supraventricular tachycardia,1
+682,"Mantle cell lymphoma, unspecified site, extranodal and solid organ sites",20040,mantle cell lymphoma unspecified site extranodal and solid organ sites,7
+683,Post-traumatic seroma,72991,posttraumatic seroma,1
+684,"Goiter, unspecified",2409,goiter unspecified,7
+685,Chronic vascular insufficiency of intestine,5571,chronic vascular insufficiency of intestine,3
+686,External hemorrhoids with other complication,4555,external hemorrhoids with other complication,1
+687,Other mechanical complication of prosthetic joint implant,99647,other mechanical complication of prosthetic joint implant,8
+688,Unspecified local infection of skin and subcutaneous tissue,6869,unspecified local infection of skin and subcutaneous tissue,7
+689,Mobitz (type) II atrioventricular block,42612,mobitz type ii atrioventricular block,6
+690,Anal fissure,5650,anal fissure,1
+691,Carcinoma in situ of breast,2330,carcinoma in situ of breast,1
+692,"Closed fracture of intracapsular section of neck of femur, unspecified",82000,closed fracture of intracapsular section of neck of femur unspecified,10
+693,"Infection and inflammatory reaction due to other internal prosthetic device, implant, and graft",99669,infection and inflammatory reaction due to other internal prosthetic device implant and graft,8
+694,Pathologic fracture of neck of femur,73314,pathologic fracture of neck of femur,10
+695,Occlusion and stenosis of carotid artery with cerebral infarction,43311,occlusion and stenosis of carotid artery with cerebral infarction,1
+696,Chronic pancreatitis,5771,chronic pancreatitis,3
+697,Complications of transplanted heart,99683,complications of transplanted heart,8
+698,Pulmonary congestion and hypostasis,514,pulmonary congestion and hypostasis,1
+699,Grand mal status,3453,grand mal status,1
+700,"Phlebitis and thrombophlebitis of deep veins of lower extremities, other",45119,phlebitis and thrombophlebitis of deep veins of lower extremities other,9
+701,"Major depressive affective disorder, single episode, severe, without mention of psychotic behavior",29623,major depressive affective disorder single episode severe without mention of psychotic behavior,1
+702,"Orchitis and epididymitis, unspecified",60490,orchitis and epididymitis unspecified,7
+703,Malignant neoplasm of transverse colon,1531,malignant neoplasm of transverse colon,2
+704,Other complications due to heart valve prosthesis,99671,other complications due to heart valve prosthesis,8
+705,Spinal stenosis in cervical region,7230,spinal stenosis in cervical region,1
+706,Hernia of other specified sites without mention of obstruction or gangrene,5538,hernia of other specified sites without mention of obstruction or gangrene,4
+707,Regional enteritis of large intestine,5551,regional enteritis of large intestine,1
+708,"Alcoholic liver damage, unspecified",5713,alcoholic liver damage unspecified,7
+709,Secondary malignant neoplasm of other parts of nervous system,1984,secondary malignant neoplasm of other parts of nervous system,2
+710,Malignant neoplasm of other specified sites of female breast,1748,malignant neoplasm of other specified sites of female breast,2
+711,Salmonella gastroenteritis,0030,salmonella gastroenteritis,1
+712,"Cocaine dependence, continuous",30421,cocaine dependence continuous,1
+713,Other ulcerative colitis,5568,other ulcerative colitis,1
+714,Immune thrombocytopenic purpura,28731,immune thrombocytopenic purpura,1
+715,"Cystocele, midline",61801,cystocele midline,1
+716,"Chronic osteomyelitis, ankle and foot",73017,chronic osteomyelitis ankle and foot,3
+717,"Infection and inflammatory reaction due to cardiac device, implant, and graft",99661,infection and inflammatory reaction due to cardiac device implant and graft,8
+718,"Injury to bladder and urethra, without mention of open wound into cavity",8670,injury to bladder and urethra without mention of open wound into cavity,0
+719,"Osteoarthrosis, localized, not specified whether primary or secondary, ankle and foot",71537,osteoarthrosis localized not specified whether primary or secondary ankle and foot,3
+720,Shoulder and upper arm injury,9592,shoulder and upper arm injury,1
+721,"Primary central nervous system lymphoma, unspecified site, extranodal and solid organ sites",20050,primary central nervous system lymphoma unspecified site extranodal and solid organ sites,7
+722,Dementia in conditions classified elsewhere with behavioral disturbance,29411,dementia in conditions classified elsewhere with behavioral disturbance,1
+723,Malignant neoplasm of adrenal gland,1940,malignant neoplasm of adrenal gland,2
+724,Other specified forms of chronic ischemic heart disease,4148,other specified forms of chronic ischemic heart disease,3
+725,"Chronic kidney disease, unspecified",5859,chronic kidney disease unspecified,3
+726,Other specified septicemias,0388,other specified septicemias,3
+727,Other and unspecified diseases of the oral soft tissues,5289,other and unspecified diseases of the oral soft tissues,7
+728,Other primary cardiomyopathies,4254,other primary cardiomyopathies,1
+729,Polyp of corpus uteri,6210,polyp of corpus uteri,1
+730,Aortocoronary bypass status,V4581,aortocoronary bypass status,1
+731,"Chronic or unspecified gastric ulcer with hemorrhage, without mention of obstruction",53140,chronic or unspecified gastric ulcer with hemorrhage without mention of obstruction,4
+732,"Unspecified osteomyelitis, ankle and foot",73027,unspecified osteomyelitis ankle and foot,7
+733,Cerebral embolism with cerebral infarction,43411,cerebral embolism with cerebral infarction,1
+734,Malignant neoplasm of pylorus,1511,malignant neoplasm of pylorus,2
+735,Other abnormal clinical findings,7964,other abnormal clinical findings,1
+736,"Calculus of bile duct without mention of cholecystitis, with obstruction",57451,calculus of bile duct without mention of cholecystitis with obstruction,4
+737,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, unspecified state of consciousness",80120,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage unspecified state of consciousness,0
+738,Closed fracture of shaft of tibia alone,82320,closed fracture of shaft of tibia alone,10
+739,"Stress incontinence, female",6256,stress incontinence female,1
+740,"Pain in joint, ankle and foot",71947,pain in joint ankle and foot,1
+741,"Endocarditis, valve unspecified, unspecified cause",42490,endocarditis valve unspecified unspecified cause,7
+742,Closed fracture of four ribs,80704,closed fracture of four ribs,10
+743,Closed fracture of multiple sites of metacarpus,81509,closed fracture of multiple sites of metacarpus,10
+744,"Open fracture of lower end of femur, unspecified part",82130,open fracture of lower end of femur unspecified part,10
+745,Pneumonia due to Klebsiella pneumoniae,4820,pneumonia due to klebsiella pneumoniae,1
+746,Malignant neoplasm of lower third of esophagus,1505,malignant neoplasm of lower third of esophagus,2
+747,"Respiratory abnormality, unspecified",78600,respiratory abnormality unspecified,7
+748,"Acute myocardial infarction of unspecified site, episode of care unspecified",41090,acute myocardial infarction of unspecified site episode of care unspecified,5
+749,"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled",25041,diabetes with renal manifestations type i juvenile type not stated as uncontrolled,6
+750,Mechanical complication due to peritoneal dialysis catheter,99656,mechanical complication due to peritoneal dialysis catheter,1
+751,Human immunodeficiency virus [HIV] disease,042,human immunodeficiency virus hiv disease,3
+752,Closed fracture of base of neck of femur,82003,closed fracture of base of neck of femur,10
+753,"Arthropathy, unspecified, ankle and foot",71697,arthropathy unspecified ankle and foot,7
+754,"Other acute and subacute forms of ischemic heart disease, other",41189,other acute and subacute forms of ischemic heart disease other,3
+755,"Calculus of bile duct with acute cholecystitis, with obstruction",57431,calculus of bile duct with acute cholecystitis with obstruction,4
+756,"Ulcerative colitis, unspecified",5569,ulcerative colitis unspecified,7
+757,"Subendocardial infarction, episode of care unspecified",41070,subendocardial infarction episode of care unspecified,7
+758,Unspecified adjustment reaction,3099,unspecified adjustment reaction,7
+759,"Hemorrhage, unspecified",4590,hemorrhage unspecified,7
+760,Degeneration of lumbar or lumbosacral intervertebral disc,72252,degeneration of lumbar or lumbosacral intervertebral disc,1
+761,"Dissection of aorta, thoracoabdominal",44103,dissection of aorta thoracoabdominal,1
+762,"Diabetes with other coma, type I [juvenile type], not stated as uncontrolled",25031,diabetes with other coma type i juvenile type not stated as uncontrolled,6
+763,Closed fracture of three ribs,80703,closed fracture of three ribs,10
+764,"Osteoarthrosis, localized, secondary, lower leg",71526,osteoarthrosis localized secondary lower leg,9
+765,Poisoning by other opiates and related narcotics,96509,poisoning by other opiates and related narcotics,1
+766,Unspecified disorder of male genital organs,6089,unspecified disorder of male genital organs,7
+767,Closed fracture of nasal bones,8020,closed fracture of nasal bones,10
+768,Secondary malignant neoplasm of other specified sites,19889,secondary malignant neoplasm of other specified sites,2
+769,"Peripheral vascular complications, not elsewhere classified",9972,peripheral vascular complications not elsewhere classified,8
+770,"Bipolar I disorder, most recent episode (or current) depressed, unspecified",29650,bipolar i disorder most recent episode or current depressed unspecified,7
+771,Methicillin resistant Staphylococcus aureus septicemia,03812,methicillin resistant staphylococcus aureus septicemia,1
+772,"Dissection of aorta, unspecified site",44100,dissection of aorta unspecified site,7
+773,Other protein-calorie malnutrition,2638,other proteincalorie malnutrition,1
+774,Malignant neoplasm of base of tongue,1410,malignant neoplasm of base of tongue,2
+775,Rheumatic heart failure (congestive),39891,rheumatic heart failure congestive,3
+776,Excessive or frequent menstruation,6262,excessive or frequent menstruation,1
+777,Foreign body in larynx,9331,foreign body in larynx,1
+778,Malignant neoplasm of gallbladder,1560,malignant neoplasm of gallbladder,2
+779,Cardiogenic shock,78551,cardiogenic shock,1
+780,Pneumonia due to other gram-negative bacteria,48283,pneumonia due to other gramnegative bacteria,1
+781,"Myoneural disorders, unspecified",3589,myoneural disorders unspecified,7
+782,Spondylolisthesis,75612,spondylolisthesis,1
+783,"Abdominal or pelvic swelling, mass, or lump, left lower quadrant",78934,abdominal or pelvic swelling mass or lump left lower quadrant,9
+784,Acute combined systolic and diastolic heart failure,42841,acute combined systolic and diastolic heart failure,5
+785,"Schizophrenic disorders, residual type, unspecified",29560,schizophrenic disorders residual type unspecified,6
+786,"Appendicitis, unqualified",541,appendicitis unqualified,1
+787,"Fracture of unspecified bone, closed",8290,fracture of unspecified bone closed,10
+788,"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled",25060,diabetes with neurological manifestations type ii or unspecified type not stated as uncontrolled,6
+789,Other and unspecified ovarian cyst,6202,other and unspecified ovarian cyst,7
+790,"Diabetes with other coma, type II or unspecified type, uncontrolled",25032,diabetes with other coma type ii or unspecified type uncontrolled,6
+791,Other acute postoperative pain,33818,other acute postoperative pain,5
+792,"Uterovaginal prolapse, incomplete",6182,uterovaginal prolapse incomplete,1
+793,Neoplasm of uncertain behavior of bladder,2367,neoplasm of uncertain behavior of bladder,2
+794,"Other specified sites, including multiple injury",9598,other specified sites including multiple injury,3
+795,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy",34550,localizationrelated focal partial epilepsy and epileptic syndromes with simple partial seizures without mention of intractable epilepsy,1
+796,"Closed multiple fractures involving both lower limbs, lower with upper limb, and lower limb(s) with rib(s) and sternum",8280,closed multiple fractures involving both lower limbs lower with upper limb and lower limbs with ribs and sternum,9
+797,Closed fracture of ilium,80841,closed fracture of ilium,10
+798,"Conduction disorder, unspecified",4269,conduction disorder unspecified,7
+799,"Gout, unspecified",2749,gout unspecified,7
+800,Closed fracture of unspecified part of tibia alone,82380,closed fracture of unspecified part of tibia alone,10
+801,Coronary atherosclerosis of unspecified bypass graft,41405,coronary atherosclerosis of unspecified bypass graft,7
+802,"Heart failure, unspecified",4289,heart failure unspecified,3
+803,Other open fractures of distal end of radius (alone),81352,other open fractures of distal end of radius alone,1
+804,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified",40491,hypertensive heart and chronic kidney disease unspecified with heart failure and with chronic kidney disease stage i through stage iv or unspecified,3
+805,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",85201,subarachnoid hemorrhage following injury without mention of open intracranial wound with no loss of consciousness,0
+806,Sciatica,7243,sciatica,1
+807,Anomalies of cerebrovascular system,74781,anomalies of cerebrovascular system,1
+808,"General psychiatric examination, other and unspecified",V702,general psychiatric examination other and unspecified,7
+809,Renal colic,7880,renal colic,1
+810,Degeneration of cervical intervertebral disc,7224,degeneration of cervical intervertebral disc,1
+811,Other specified disorders of biliary tract,5768,other specified disorders of biliary tract,3
+812,Other specified symptoms associated with female genital organs,6258,other specified symptoms associated with female genital organs,3
+813,Bell's palsy,3510,bells palsy,1
+814,Secondary malignant neoplasm of genital organs,19882,secondary malignant neoplasm of genital organs,2
+815,Suicidal ideation,V6284,suicidal ideation,1
+816,"Thyroid dysfunction of mother, delivered, with or without mention of antepartum condition",64811,thyroid dysfunction of mother delivered with or without mention of antepartum condition,1
+817,Lump or mass in breast,61172,lump or mass in breast,1
+818,Obstructive hydrocephalus,3314,obstructive hydrocephalus,1
+819,"Acute pericarditis, unspecified",42090,acute pericarditis unspecified,5
+820,Perforation of intestine,56983,perforation of intestine,1
+821,"Complications affecting other specified body systems, not elsewhere classified",99799,complications affecting other specified body systems not elsewhere classified,8
+822,"Hemiplegia, unspecified, affecting dominant side",34291,hemiplegia unspecified affecting dominant side,7
+823,Secondary malignant neoplasm of small intestine including duodenum,1974,secondary malignant neoplasm of small intestine including duodenum,2
+824,"Diastolic heart failure, unspecified",42830,diastolic heart failure unspecified,3
+825,"Undersocialized conduct disorder, aggressive type, unspecified",31200,undersocialized conduct disorder aggressive type unspecified,7
+826,"Acute gastritis, without mention of hemorrhage",53500,acute gastritis without mention of hemorrhage,5
+827,Multiple involvement of mitral and aortic valves,3968,multiple involvement of mitral and aortic valves,1
+828,"Alcoholic gastritis, without mention of hemorrhage",53530,alcoholic gastritis without mention of hemorrhage,1
+829,"Trimalleolar fracture, open",8247,trimalleolar fracture open,10
+830,Fever presenting with conditions classified elsewhere,78061,fever presenting with conditions classified elsewhere,1
+831,Diaphragmatic hernia without mention of obstruction or gangrene,5533,diaphragmatic hernia without mention of obstruction or gangrene,4
+832,"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled",25040,diabetes with renal manifestations type ii or unspecified type not stated as uncontrolled,6
+833,Intracranial and intraspinal abscess of unspecified site,3249,intracranial and intraspinal abscess of unspecified site,7
+834,Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb,1963,secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb,2
+835,"Nodular lymphoma, intra-abdominal lymph nodes",20203,nodular lymphoma intraabdominal lymph nodes,1
+836,Malignant neoplasm of other parts of bronchus or lung,1628,malignant neoplasm of other parts of bronchus or lung,2
+837,Carcinoma in situ of cervix uteri,2331,carcinoma in situ of cervix uteri,1
+838,Contusion of chest wall,9221,contusion of chest wall,1
+839,Mixed incontinence (male) (female),78833,mixed incontinence male female,1
+840,"Osteoarthrosis, generalized, site unspecified",71500,osteoarthrosis generalized site unspecified,7
+841,Closed fracture of subtrochanteric section of neck of femur,82022,closed fracture of subtrochanteric section of neck of femur,10
+842,Nutritional marasmus,261,nutritional marasmus,1
+843,Chronic cholecystitis,57511,chronic cholecystitis,3
+844,"Open wound of nose, unspecified site, without mention of complication",87320,open wound of nose unspecified site without mention of complication,0
+845,"Acute myocardial infarction of inferoposterior wall, initial episode of care",41031,acute myocardial infarction of inferoposterior wall initial episode of care,5
+846,Closed fracture of shaft of fibula with tibia,82322,closed fracture of shaft of fibula with tibia,10
+847,"Epilepsy, unspecified, with intractable epilepsy",34591,epilepsy unspecified with intractable epilepsy,7
+848,Other specified anemias,2858,other specified anemias,3
+849,Generalized pain,78096,generalized pain,1
+850,"Acute myocardial infarction of anterolateral wall, initial episode of care",41001,acute myocardial infarction of anterolateral wall initial episode of care,5
+851,"Acute myeloid leukemia, in relapse",20502,acute myeloid leukemia in relapse,5
+852,Poisoning by other sedatives and hypnotics,9678,poisoning by other sedatives and hypnotics,1
+853,"Other forms of epilepsy and recurrent seizures, without mention of intractable epilepsy",34580,other forms of epilepsy and recurrent seizures without mention of intractable epilepsy,1
+854,"Knee, leg, ankle, and foot injury",9597,knee leg ankle and foot injury,1
+855,"Chronic obstructive asthma, unspecified",49320,chronic obstructive asthma unspecified,3
+856,"Accidental puncture or laceration during a procedure, not elsewhere classified",9982,accidental puncture or laceration during a procedure not elsewhere classified,1
+857,"Pressure ulcer, unspecified site",70700,pressure ulcer unspecified site,7
+858,Articular bearing surface wear of prosthetic joint,99646,articular bearing surface wear of prosthetic joint,1
+859,"Pressure ulcer, buttock",70705,pressure ulcer buttock,1
+860,Aneurysm of unspecified site,4429,aneurysm of unspecified site,7
+861,Uric acid nephrolithiasis,27411,uric acid nephrolithiasis,1
+862,"Benign neoplasm of kidney, except pelvis",2230,benign neoplasm of kidney except pelvis,2
+863,Unspecified nonpsychotic mental disorder,3009,unspecified nonpsychotic mental disorder,7
+864,Other psoriasis,6961,other psoriasis,1
+865,Critical illness myopathy,35981,critical illness myopathy,1
+866,Delusional disorder,2971,delusional disorder,1
+867,"Urinary incontinence, unspecified",78830,urinary incontinence unspecified,7
+868,Other malignant neoplasm without specification of site,1991,other malignant neoplasm without specification of site,2
+869,Unspecified hypertensive heart disease with heart failure,40291,unspecified hypertensive heart disease with heart failure,3
+870,Unspecified viral infection,07999,unspecified viral infection,7
+871,Other symptoms involving nervous and musculoskeletal systems,78199,other symptoms involving nervous and musculoskeletal systems,1
+872,Olecranon bursitis,72633,olecranon bursitis,1
+873,Atherosclerosis of native arteries of the extremities with gangrene,44024,atherosclerosis of native arteries of the extremities with gangrene,1
+874,Toxic diffuse goiter without mention of thyrotoxic crisis or storm,24200,toxic diffuse goiter without mention of thyrotoxic crisis or storm,1
+875,"Bronchitis, not specified as acute or chronic",490,bronchitis not specified as acute or chronic,5
+876,"Mechanical complication of nervous system device, implant, and graft",9962,mechanical complication of nervous system device implant and graft,8
+877,Other specified hypoglycemia,2511,other specified hypoglycemia,3
+878,Contact dermatitis and other eczema due to other specified agents,69289,contact dermatitis and other eczema due to other specified agents,3
+879,Other constipation,56409,other constipation,1
+880,Other specified transient cerebral ischemias,4358,other specified transient cerebral ischemias,3
+881,"Ulcer of lower limb, unspecified",70710,ulcer of lower limb unspecified,9
+882,"Catatonic type schizophrenia, unspecified",29520,catatonic type schizophrenia unspecified,6
+883,Left heart failure,4281,left heart failure,3
+884,Defibrination syndrome,2866,defibrination syndrome,1
+885,Closed fracture of C5-C7 level with unspecified spinal cord injury,80605,closed fracture of c5c7 level with unspecified spinal cord injury,10
+886,"Other mechanical complication of genitourinary device, implant, and graft",99639,other mechanical complication of genitourinary device implant and graft,8
+887,Other acquired deformities of ankle and foot,73679,other acquired deformities of ankle and foot,1
+888,Infection and inflammatory reaction due to peritoneal dialysis catheter,99668,infection and inflammatory reaction due to peritoneal dialysis catheter,1
+889,Convalescence following surgery,V660,convalescence following surgery,1
+890,Acute alcoholic hepatitis,5711,acute alcoholic hepatitis,5
+891,"Other malignant lymphomas, intra-abdominal lymph nodes",20283,other malignant lymphomas intraabdominal lymph nodes,1
+892,Generalized and unspecified atherosclerosis,4409,generalized and unspecified atherosclerosis,7
+893,Other kyphoscoliosis and scoliosis,73739,other kyphoscoliosis and scoliosis,1
+894,Closed fracture of third cervical vertebra,80503,closed fracture of third cervical vertebra,10
+895,Hip joint replacement,V4364,hip joint replacement,1
+896,Obstructive sleep apnea (adult)(pediatric),32723,obstructive sleep apnea adultpediatric,1
+897,Sepsis,99591,sepsis,1
+898,"Osteoarthrosis involving, or with mention of more than one site, but not specified as generalized, multiple sites",71589,osteoarthrosis involving or with mention of more than one site but not specified as generalized multiple sites,3
+899,Secondary hyperparathyroidism (of renal origin),58881,secondary hyperparathyroidism of renal origin,1
+900,"Mechanical complication due to other implant and internal device, not elsewhere classified",99659,mechanical complication due to other implant and internal device not elsewhere classified,8
+901,Occlusion and stenosis of vertebral artery without mention of cerebral infarction,43320,occlusion and stenosis of vertebral artery without mention of cerebral infarction,1
+902,"Shock, unspecified",78550,shock unspecified,7
+903,"Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled",25010,diabetes with ketoacidosis type ii or unspecified type not stated as uncontrolled,6
+904,"Spondylosis with myelopathy, lumbar region",72142,spondylosis with myelopathy lumbar region,1
+905,"Other complications due to unspecified device, implant, and graft",99670,other complications due to unspecified device implant and graft,8
+906,Unspecified disturbance of conduct,3129,unspecified disturbance of conduct,7
+907,"Benign neoplasm of duodenum, jejunum, and ileum",2112,benign neoplasm of duodenum jejunum and ileum,2
+908,Closed Colles' fracture,81341,closed colles fracture,10
+909,Other symptoms involving respiratory system and chest,7869,other symptoms involving respiratory system and chest,1
+910,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes,1961,secondary and unspecified malignant neoplasm of intrathoracic lymph nodes,2
+911,Ulcer of ankle,70713,ulcer of ankle,1
+912,Obstructive chronic bronchitis without exacerbation,49120,obstructive chronic bronchitis without exacerbation,3
+913,Septic shock,78552,septic shock,1
+914,"Closed fracture of epiphysis, lower (separation) of femur",82122,closed fracture of epiphysis lower separation of femur,10
+915,"Elderly multigravida, antepartum condition or complication",65963,elderly multigravida antepartum condition or complication,1
+916,Unspecified disease of pharynx,47820,unspecified disease of pharynx,3
+917,Stricture and stenosis of esophagus,5303,stricture and stenosis of esophagus,1
+918,Malignant neoplasm of hepatic flexure,1530,malignant neoplasm of hepatic flexure,2
+919,Closed unspecified fracture of pelvis,8088,closed unspecified fracture of pelvis,10
+920,"Late effects of cerebrovascular disease, hemiplegia affecting unspecified side",43820,late effects of cerebrovascular disease hemiplegia affecting unspecified side,3
+921,Chronic ulcer of other specified sites,7078,chronic ulcer of other specified sites,3
+922,"Other threatened labor, antepartum condition or complication",64413,other threatened labor antepartum condition or complication,1
+923,Malignant neoplasm of jejunum,1521,malignant neoplasm of jejunum,2
+924,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease",40493,hypertensive heart and chronic kidney disease unspecified with heart failure and chronic kidney disease stage v or end stage renal disease,3
+925,Malignant neoplasm of thyroid gland,193,malignant neoplasm of thyroid gland,2
+926,"Closed fracture of mandible, body, other and unspecified",80228,closed fracture of mandible body other and unspecified,10
+927,Cerebral thrombosis with cerebral infarction,43401,cerebral thrombosis with cerebral infarction,1
+928,Autoimmune hemolytic anemias,2830,autoimmune hemolytic anemias,1
+929,Abnormal involuntary movements,7810,abnormal involuntary movements,1
+930,"Degeneration of intervertebral disc, site unspecified",7226,degeneration of intervertebral disc site unspecified,7
+931,"Open wound of foot except toe(s) alone, complicated",8921,open wound of foot except toes alone complicated,0
+932,"Arthropathy, unspecified, forearm",71693,arthropathy unspecified forearm,7
+933,Dyspepsia and other specified disorders of function of stomach,5368,dyspepsia and other specified disorders of function of stomach,3
+934,Malignant neoplasm of cardia,1510,malignant neoplasm of cardia,2
+935,Peritoneal abscess,56722,peritoneal abscess,1
+936,Hypocalcemia,27541,hypocalcemia,1
+937,Other bursitis,7273,other bursitis,1
+938,Acute glomerulonephritis with other specified pathological lesion in kidney,58089,acute glomerulonephritis with other specified pathological lesion in kidney,5
+939,Gastroparesis,5363,gastroparesis,1
+940,Postconcussion syndrome,3102,postconcussion syndrome,1
+941,Chronic hypotension,4581,chronic hypotension,3
+942,"Hemophthalmos, except current injury",36043,hemophthalmos except current injury,1
+943,"Pelvic peritoneal adhesions, female (postoperative) (postinfection)",6146,pelvic peritoneal adhesions female postoperative postinfection,1
+944,"Uterovaginal prolapse, complete",6183,uterovaginal prolapse complete,1
+945,Unspecified infectious and parasitic diseases,1369,unspecified infectious and parasitic diseases,7
+946,Other specified complications of procedures not elsewhere classified,99889,other specified complications of procedures not elsewhere classified,8
+947,Secondary malignant neoplasm of brain and spinal cord,1983,secondary malignant neoplasm of brain and spinal cord,2
+948,Carpal tunnel syndrome,3540,carpal tunnel syndrome,1
+949,Atheroembolism of lower extremity,44502,atheroembolism of lower extremity,9
+950,Hydronephrosis,591,hydronephrosis,1
+951,Other specified local infections of skin and subcutaneous tissue,6868,other specified local infections of skin and subcutaneous tissue,3
+952,"Intervertebral disc disorder with myelopathy, lumbar region",72273,intervertebral disc disorder with myelopathy lumbar region,1
+953,Diverticulosis of colon (without mention of hemorrhage),56210,diverticulosis of colon without mention of hemorrhage,1
+954,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with brief [less than one hour] loss of consciousness",85182,other and unspecified cerebral laceration and contusion without mention of open intracranial wound with brief less than one hour loss of consciousness,0
+955,Other postprocedural status,V4589,other postprocedural status,1
+956,Secondary malignant neoplasm of other digestive organs and spleen,1978,secondary malignant neoplasm of other digestive organs and spleen,2
+957,"Unspecified schizophrenia, chronic with acute exacerbation",29594,unspecified schizophrenia chronic with acute exacerbation,5
+958,Other specified diseases of the jaws,52689,other specified diseases of the jaws,3
+959,"Fracture of calcaneus, open",8251,fracture of calcaneus open,10
+960,Poisoning by other specified drugs and medicinal substances,9778,poisoning by other specified drugs and medicinal substances,3
+961,"Opioid abuse, unspecified",30550,opioid abuse unspecified,7
+962,Unspecified protein-calorie malnutrition,2639,unspecified proteincalorie malnutrition,7
+963,Other and unspecified hyperlipidemia,2724,other and unspecified hyperlipidemia,7
+964,Cauda equina syndrome with neurogenic bladder,34461,cauda equina syndrome with neurogenic bladder,1
+965,Other specified hypotension,4588,other specified hypotension,3
+966,"Sensory hearing loss, bilateral",38911,sensory hearing loss bilateral,1
+967,Secondary malignant neoplasm of retroperitoneum and peritoneum,1976,secondary malignant neoplasm of retroperitoneum and peritoneum,2
+968,"Osteoarthrosis, localized, primary, ankle and foot",71517,osteoarthrosis localized primary ankle and foot,1
+969,Other specified disease of white blood cells,2888,other specified disease of white blood cells,3
+970,"Panniculitis, other site",72939,panniculitis other site,1
+971,Generalized anxiety disorder,30002,generalized anxiety disorder,1
+972,Poisoning by other and unspecified agents primarily affecting the cardiovascular system,9729,poisoning by other and unspecified agents primarily affecting the cardiovascular system,7
+973,Other specified causes of urethral stricture,5988,other specified causes of urethral stricture,3
+974,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",40390,hypertensive chronic kidney disease unspecified with chronic kidney disease stage i through stage iv or unspecified,3
+975,Herpes zoster without mention of complication,0539,herpes zoster without mention of complication,1
+976,Ulcer of calf,70712,ulcer of calf,1
+977,Coma,78001,coma,1
+978,Closed supracondylar fracture of femur,82123,closed supracondylar fracture of femur,10
+979,Closed supracondylar fracture of humerus,81241,closed supracondylar fracture of humerus,10
+980,Poisoning by insulins and antidiabetic agents,9623,poisoning by insulins and antidiabetic agents,1
+981,"Contusion of multiple sites, not elsewhere classified",9248,contusion of multiple sites not elsewhere classified,1
+982,Volvulus,5602,volvulus,1
+983,Other tracheostomy complications,51909,other tracheostomy complications,8
+984,Communicating hydrocephalus,3313,communicating hydrocephalus,1
+985,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",85300,other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound unspecified state of consciousness,0
+986,"Late effects of cerebrovascular disease, hemiplegia affecting nondominant side",43822,late effects of cerebrovascular disease hemiplegia affecting nondominant side,3
+987,Aneurysm of subclavian artery,44282,aneurysm of subclavian artery,1
+988,"Bipolar I disorder, most recent episode (or current) manic, unspecified",29640,bipolar i disorder most recent episode or current manic unspecified,7
+989,"Ventral, unspecified, hernia with obstruction",55220,ventral unspecified hernia with obstruction,4
+990,"Cyst of bone (localized), unspecified",73320,cyst of bone localized unspecified,7
+991,"Phlebitis and thrombophlebitis of lower extremities, unspecified",4512,phlebitis and thrombophlebitis of lower extremities unspecified,9
+992,"Contracture of joint, upper arm",71842,contracture of joint upper arm,1
+993,"Meningitis, unspecified",3229,meningitis unspecified,7
+994,Malignant neoplasm of choroid,1906,malignant neoplasm of choroid,2
+995,Arterial embolism and thrombosis of upper extremity,44421,arterial embolism and thrombosis of upper extremity,1
+996,"Diabetes with hyperosmolarity, type II or unspecified type, uncontrolled",25022,diabetes with hyperosmolarity type ii or unspecified type uncontrolled,6
+997,Bronchiectasis with acute exacerbation,4941,bronchiectasis with acute exacerbation,5
+998,Oliguria and anuria,7885,oliguria and anuria,1
+999,"Chronic or unspecified duodenal ulcer with hemorrhage, without mention of obstruction",53240,chronic or unspecified duodenal ulcer with hemorrhage without mention of obstruction,4
+1000,"Aftercare following surgery of the circulatory system, NEC",V5873,aftercare following surgery of the circulatory system nec,1
+1001,Other and unspecified infection due to central venous catheter,99931,other and unspecified infection due to central venous catheter,7
+1002,Other symptoms involving abdomen and pelvis,7899,other symptoms involving abdomen and pelvis,1
+1003,Malignant neoplasm of ascending colon,1536,malignant neoplasm of ascending colon,2
+1004,Ventricular fibrillation,42741,ventricular fibrillation,1
+1005,Diverticulitis of small intestine (without mention of hemorrhage),56201,diverticulitis of small intestine without mention of hemorrhage,1
+1006,"Other and unspecified cerebral laceration and contusion, without mention of open intracranial wound, with no loss of consciousness",85181,other and unspecified cerebral laceration and contusion without mention of open intracranial wound with no loss of consciousness,0
+1007,"Displacement of intervertebral disc, site unspecified, without myelopathy",7222,displacement of intervertebral disc site unspecified without myelopathy,7
+1008,"Sedative, hypnotic or anxiolytic dependence, continuous",30411,sedative hypnotic or anxiolytic dependence continuous,1
+1009,Acquired hypertrophic pyloric stenosis,5370,acquired hypertrophic pyloric stenosis,1
+1010,Aseptic necrosis of medial femoral condyle,73343,aseptic necrosis of medial femoral condyle,1
+1011,Nontoxic uninodular goiter,2410,nontoxic uninodular goiter,1
+1012,Barrett's esophagus,53085,barretts esophagus,1
+1013,Secondary malignant neoplasm of lung,1970,secondary malignant neoplasm of lung,2
+1014,Malignant neoplasm of maxillary sinus,1602,malignant neoplasm of maxillary sinus,2
+1015,Other aftercare involving internal fixation device,V5409,other aftercare involving internal fixation device,1
+1016,Aftercare for healing traumatic fracture of hip,V5413,aftercare for healing traumatic fracture of hip,10
+1017,"Venous (peripheral) insufficiency, unspecified",45981,venous peripheral insufficiency unspecified,7
+1018,"Unspecified osteomyelitis, site unspecified",73020,unspecified osteomyelitis site unspecified,7
+1019,"Unspecified osteomyelitis, lower leg",73026,unspecified osteomyelitis lower leg,9
+1020,"Diverticulum of esophagus, acquired",5306,diverticulum of esophagus acquired,1
+1021,"Paralysis of vocal cords or larynx, unspecified",47830,paralysis of vocal cords or larynx unspecified,7
+1022,"Migraine without aura, without mention of intractable migraine without mention of status migrainosus",34610,migraine without aura without mention of intractable migraine without mention of status migrainosus,1
+1023,Memory loss,78093,memory loss,1
+1024,Mitral valve insufficiency and aortic valve stenosis,3962,mitral valve insufficiency and aortic valve stenosis,1
+1025,Iatrogenic cerebrovascular infarction or hemorrhage,99702,iatrogenic cerebrovascular infarction or hemorrhage,1
+1026,Herpetic gingivostomatitis,0542,herpetic gingivostomatitis,1
+1027,"Diabetes with peripheral circulatory disorders, type II or unspecified type, uncontrolled",25072,diabetes with peripheral circulatory disorders type ii or unspecified type uncontrolled,6
+1028,Unspecified hereditary and idiopathic peripheral neuropathy,3569,unspecified hereditary and idiopathic peripheral neuropathy,7
+1029,"Postlaminectomy syndrome, lumbar region",72283,postlaminectomy syndrome lumbar region,1
+1030,Intestinovesical fistula,5961,intestinovesical fistula,1
+1031,Malignant neoplasm of tonsil,1460,malignant neoplasm of tonsil,2
+1032,Aftercare following joint replacement,V5481,aftercare following joint replacement,1
+1033,"Pain in joint, forearm",71943,pain in joint forearm,1
+1034,Infection of gastrostomy,53641,infection of gastrostomy,1
+1035,"Subdural hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",85226,subdural hemorrhage following injury without mention of open intracranial wound with loss of consciousness of unspecified duration,0
+1036,Poisoning by other specified psychotropic agents,9698,poisoning by other specified psychotropic agents,3
+1037,Phlebitis and thrombophlebitis of superficial vessels of lower extremities,4510,phlebitis and thrombophlebitis of superficial vessels of lower extremities,9
+1038,Knee joint replacement,V4365,knee joint replacement,1
+1039,"Malignant neoplasm of bone and articular cartilage, site unspecified",1709,malignant neoplasm of bone and articular cartilage site unspecified,2
+1040,Nonspecific abnormal toxicological findings,7960,nonspecific abnormal toxicological findings,1
+1041,Acute upper respiratory infections of unspecified site,4659,acute upper respiratory infections of unspecified site,5
+1042,Periapical abscess without sinus,5225,periapical abscess without sinus,1
+1043,Other specified diseases of pericardium,4238,other specified diseases of pericardium,3
+1044,Pathologic fracture of other specified site,73319,pathologic fracture of other specified site,10
+1045,Closed fracture of lumbar spine with spinal cord injury,8064,closed fracture of lumbar spine with spinal cord injury,10
+1046,Spasm of muscle,72885,spasm of muscle,1
+1047,Cervical spondylosis without myelopathy,7210,cervical spondylosis without myelopathy,1
+1048,"Closed fracture of multiple ribs, unspecified",80709,closed fracture of multiple ribs unspecified,10
+1049,Influenza with pneumonia,4870,influenza with pneumonia,1
+1050,Other staphylococcal septicemia,03819,other staphylococcal septicemia,1
+1051,Cholesteatoma of middle ear and mastoid,38533,cholesteatoma of middle ear and mastoid,1
+1052,Acute kidney failure with lesion of tubular necrosis,5845,acute kidney failure with lesion of tubular necrosis,5
+1053,Poisoning by psychodysleptics (hallucinogens),9696,poisoning by psychodysleptics hallucinogens,1
+1054,Broken prosthetic joint implant,99643,broken prosthetic joint implant,1
+1055,Internal hemorrhoids with other complication,4552,internal hemorrhoids with other complication,1
+1056,Benign neoplasm of breast,217,benign neoplasm of breast,2
+1057,Drug-induced delirium,29281,druginduced delirium,1
+1058,"Concussion, with loss of consciousness of 30 minutes or less",85011,concussion with loss of consciousness of 30 minutes or less,1
+1059,"Closed fracture of cervical vertebra, unspecified level",80500,closed fracture of cervical vertebra unspecified level,10
+1060,"Vaginitis and vulvovaginitis, unspecified",61610,vaginitis and vulvovaginitis unspecified,7
+1061,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",85306,other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound with loss of consciousness of unspecified duration,0
+1062,Atherosclerosis of autologous vein bypass graft of the extremities,44031,atherosclerosis of autologous vein bypass graft of the extremities,1
+1063,"Open wound of abdominal wall, anterior, without mention of complication",8792,open wound of abdominal wall anterior without mention of complication,0
+1064,Unspecified vascular insufficiency of intestine,5579,unspecified vascular insufficiency of intestine,7
+1065,Unspecified acquired hypothyroidism,2449,unspecified acquired hypothyroidism,7
+1066,Malignant neoplasm of retromolar area,1456,malignant neoplasm of retromolar area,2
+1067,Other unknown and unspecified cause of morbidity and mortality,7999,other unknown and unspecified cause of morbidity and mortality,7
+1068,"Quadriplegia, unspecified",34400,quadriplegia unspecified,7
+1069,Other frontotemporal dementia,33119,other frontotemporal dementia,1
+1070,"Urticaria, unspecified",7089,urticaria unspecified,7
+1071,Other closed fracture of upper end of humerus,81209,other closed fracture of upper end of humerus,10
+1072,Malignant neoplasm of connective and other soft tissue of thorax,1714,malignant neoplasm of connective and other soft tissue of thorax,2
+1073,"Closed fracture of rib(s), unspecified",80700,closed fracture of ribs unspecified,10
+1074,Tibialis tendinitis,72672,tibialis tendinitis,1
+1075,Unspecified disorder of urethra and urinary tract,5999,unspecified disorder of urethra and urinary tract,7
+1076,"Esophagitis, unspecified",53010,esophagitis unspecified,7
+1077,Secondary and recurrent hemorrhage,9582,secondary and recurrent hemorrhage,1
+1078,"Paranoid state, simple",2970,paranoid state simple,1
+1079,"Unspecified osteomyelitis, pelvic region and thigh",73025,unspecified osteomyelitis pelvic region and thigh,7
+1080,Infected postoperative seroma,99851,infected postoperative seroma,1
+1081,"Schizophrenic disorders, residual type, chronic with acute exacerbation",29564,schizophrenic disorders residual type chronic with acute exacerbation,5
+1082,Pulmonary eosinophilia,5183,pulmonary eosinophilia,1
+1083,Neoplasm of unspecified nature of brain,2396,neoplasm of unspecified nature of brain,2
+1084,Disorders of bilirubin excretion,2774,disorders of bilirubin excretion,1
+1085,Apnea,78603,apnea,1
+1086,Closed fracture of unspecified part of ulna (alone),81382,closed fracture of unspecified part of ulna alone,10
+1087,Malignant neoplasm of body of pancreas,1571,malignant neoplasm of body of pancreas,2
+1088,Emphysematous bleb,4920,emphysematous bleb,1
+1089,Candidiasis of other urogenital sites,1122,candidiasis of other urogenital sites,1
+1090,"Malignant neoplasm of uterus, part unspecified",179,malignant neoplasm of uterus part unspecified,2
+1091,"Ventral, unspecified, hernia without mention of obstruction or gangrene",55320,ventral unspecified hernia without mention of obstruction or gangrene,4
+1092,"Dissection of aorta, abdominal",44102,dissection of aorta abdominal,1
+1093,Seroma complicating a procedure,99813,seroma complicating a procedure,1
+1094,Other neutropenia,28809,other neutropenia,1
+1095,"Malignant melanoma of skin of lower limb, including hip",1727,malignant melanoma of skin of lower limb including hip,9
+1096,Acute pharyngitis,462,acute pharyngitis,5
+1097,Stevens-Johnson syndrome,69513,stevensjohnson syndrome,1
+1098,Fistula of stomach or duodenum,5374,fistula of stomach or duodenum,1
+1099,Intrinsic (urethral) sphincter deficiency [ISD],59982,intrinsic urethral sphincter deficiency isd,1
+1100,Hemangioma of intra-abdominal structures,22804,hemangioma of intraabdominal structures,1
+1101,"Subdural hemorrhage following injury without mention of open intracranial wound, with brief [less than one hour] loss of consciousness",85222,subdural hemorrhage following injury without mention of open intracranial wound with brief less than one hour loss of consciousness,0
+1102,Polymyositis,7104,polymyositis,1
+1103,Atresia and stenosis of aorta,74722,atresia and stenosis of aorta,1
+1104,Generalized hyperhidrosis,7808,generalized hyperhidrosis,1
+1105,Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction,43330,occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction,1
+1106,Posttraumatic stress disorder,30981,posttraumatic stress disorder,1
+1107,"Benign neoplasm of pancreas, except islets of Langerhans",2116,benign neoplasm of pancreas except islets of langerhans,2
+1108,Prepatellar bursitis,72665,prepatellar bursitis,1
+1109,Other specified disorders of intestine,56989,other specified disorders of intestine,3
+1110,Closed fracture of upper end of tibia alone,82300,closed fracture of upper end of tibia alone,10
+1111,Reaction to spinal or lumbar puncture,3490,reaction to spinal or lumbar puncture,1
+1112,Malunion of fracture,73381,malunion of fracture,10
+1113,"Bipolar I disorder, most recent episode (or current) mixed, unspecified",29660,bipolar i disorder most recent episode or current mixed unspecified,7
+1114,Other and unspecified open wound of head without mention of complication,8738,other and unspecified open wound of head without mention of complication,0
+1115,"Lumbosacral root lesions, not elsewhere classified",3534,lumbosacral root lesions not elsewhere classified,1
+1116,Vascular disorders of kidney,59381,vascular disorders of kidney,3
+1117,"Viral pneumonia, unspecified",4809,viral pneumonia unspecified,7
+1118,Other gastrostomy complications,53649,other gastrostomy complications,8
+1119,"Arthropathy, unspecified, pelvic region and thigh",71695,arthropathy unspecified pelvic region and thigh,7
+1120,Peri-prosthetic fracture around prosthetic joint,99644,periprosthetic fracture around prosthetic joint,1
+1121,"Scoliosis [and kyphoscoliosis], idiopathic",73730,scoliosis and kyphoscoliosis idiopathic,1
+1122,"Leukocytopenia, unspecified",28850,leukocytopenia unspecified,7
+1123,"Anxiety state, unspecified",30000,anxiety state unspecified,7
+1124,Malignant neoplasm of intrahepatic bile ducts,1551,malignant neoplasm of intrahepatic bile ducts,2
+1125,"Disorganized type schizophrenia, unspecified",29510,disorganized type schizophrenia unspecified,6
+1126,Contusion of unspecified site,9249,contusion of unspecified site,7
+1127,"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled",25062,diabetes with neurological manifestations type ii or unspecified type uncontrolled,6
+1128,Malignant neoplasm of renal pelvis,1891,malignant neoplasm of renal pelvis,2
+1129,Malignant neoplasm of trigone of urinary bladder,1880,malignant neoplasm of trigone of urinary bladder,2
+1130,"Closed fracture of base of skull without mention of intra cranial injury, with no loss of consciousness",80101,closed fracture of base of skull without mention of intra cranial injury with no loss of consciousness,0
+1131,"Unspecified mechanical complication of internal orthopedic device, implant, and graft",99640,unspecified mechanical complication of internal orthopedic device implant and graft,8
+1132,Contusion of shoulder region,92300,contusion of shoulder region,1
+1133,Closed fracture of five ribs,80705,closed fracture of five ribs,10
+1134,Enthesopathy of hip region,7265,enthesopathy of hip region,1
+1135,Enlargement of lymph nodes,7856,enlargement of lymph nodes,1
+1136,Malignant neoplasm of other parts of brain,1918,malignant neoplasm of other parts of brain,2
+1137,"Poisoning by other antipsychotics, neuroleptics, and major tranquilizers",9693,poisoning by other antipsychotics neuroleptics and major tranquilizers,1
+1138,Malignant neoplasm of other specified part of esophagus,1508,malignant neoplasm of other specified part of esophagus,2
+1139,Anemia in chronic kidney disease,28521,anemia in chronic kidney disease,3
+1140,Mood disorder in conditions classified elsewhere,29383,mood disorder in conditions classified elsewhere,1
+1141,Complete rupture of rotator cuff,72761,complete rupture of rotator cuff,1
+1142,Other respiratory complications,99739,other respiratory complications,8
+1143,"Paroxysmal tachycardia, unspecified",4272,paroxysmal tachycardia unspecified,7
+1144,Essential and other specified forms of tremor,3331,essential and other specified forms of tremor,3
+1145,Infection of colostomy or enterostomy,56961,infection of colostomy or enterostomy,1
+1146,"Other malignant lymphomas, lymph nodes of multiple sites",20288,other malignant lymphomas lymph nodes of multiple sites,1
+1147,Secondary malignant neoplasm of pleura,1972,secondary malignant neoplasm of pleura,2
+1148,Other disorders of calcium metabolism,27549,other disorders of calcium metabolism,1
+1149,"Burn of unspecified site, unspecified degree",9490,burn of unspecified site unspecified degree,7
+1150,Other and unspecified coagulation defects,2869,other and unspecified coagulation defects,7
+1151,"Other complications due to other internal orthopedic device, implant, and graft",99678,other complications due to other internal orthopedic device implant and graft,8
+1152,Hypothermia not associated with low environmental temperature,78065,hypothermia not associated with low environmental temperature,1
+1153,Adjustment disorder with mixed disturbance of emotions and conduct,3094,adjustment disorder with mixed disturbance of emotions and conduct,1
+1154,"Impulse control disorder, unspecified",31230,impulse control disorder unspecified,7
+1155,Closed fracture of ischium,80842,closed fracture of ischium,10
+1156,Coronary atherosclerosis of artery bypass graft,41404,coronary atherosclerosis of artery bypass graft,1
+1157,"Other specified forms of effusion, except tuberculous",51189,other specified forms of effusion except tuberculous,3
+1158,"Schizophrenic disorders, residual type, chronic",29562,schizophrenic disorders residual type chronic,3
+1159,Closed dislocation of ankle,8370,closed dislocation of ankle,10
+1160,Malignant neoplasm of body of stomach,1514,malignant neoplasm of body of stomach,2
+1161,"Certain sequelae of myocardial infarction, not elsewhere classified, other",42979,certain sequelae of myocardial infarction not elsewhere classified other,1
+1162,Other late effects of cerebrovascular disease,43889,other late effects of cerebrovascular disease,3
+1163,Chronic hepatitis C with hepatic coma,07044,chronic hepatitis c with hepatic coma,3
+1164,Other degenerative diseases of the basal ganglia,3330,other degenerative diseases of the basal ganglia,1
+1165,Glycogenosis,2710,glycogenosis,1
+1166,Other specified disorders of liver,5738,other specified disorders of liver,3
+1167,Occlusion and stenosis of unspecified precerebral artery without mention of cerebral infarction,43390,occlusion and stenosis of unspecified precerebral artery without mention of cerebral infarction,1
+1168,Closed fracture of sacrum and coccyx without mention of spinal cord injury,8056,closed fracture of sacrum and coccyx without mention of spinal cord injury,10
+1169,Abscess of intestine,5695,abscess of intestine,1
+1170,Mechanical complication of gastrostomy,53642,mechanical complication of gastrostomy,1
+1171,"Acute duodenal ulcer with perforation, without mention of obstruction",53210,acute duodenal ulcer with perforation without mention of obstruction,4
+1172,"Osteoarthrosis, generalized, multiple sites",71509,osteoarthrosis generalized multiple sites,1
+1173,Acute and subacute bacterial endocarditis,4210,acute and subacute bacterial endocarditis,5
+1174,Acquired equinovarus deformity,73671,acquired equinovarus deformity,1
+1175,Pathologic fracture of humerus,73311,pathologic fracture of humerus,10
+1176,Abscess of lung,5130,abscess of lung,1
+1177,"Acute myocardial infarction of other specified sites, episode of care unspecified",41080,acute myocardial infarction of other specified sites episode of care unspecified,5
+1178,Acute pain due to trauma,33811,acute pain due to trauma,5
+1179,Other encephalopathy,34839,other encephalopathy,1
+1180,Attention to gastrostomy,V551,attention to gastrostomy,1
+1181,"Pre-operative examination, unspecified",V7284,preoperative examination unspecified,7
+1182,"Chronic osteomyelitis, site unspecified",73010,chronic osteomyelitis site unspecified,7
+1183,"Cannabis dependence, unspecified",30430,cannabis dependence unspecified,7
+1184,"Other and unspecified complications of medical care, not elsewhere classified",9999,other and unspecified complications of medical care not elsewhere classified,8
+1185,Scar conditions and fibrosis of skin,7092,scar conditions and fibrosis of skin,1
+1186,Umbilical hernia with obstruction,5521,umbilical hernia with obstruction,4
+1187,Varicose veins of lower extremities with ulcer,4540,varicose veins of lower extremities with ulcer,9
+1188,Unspecified disorder of esophagus,5309,unspecified disorder of esophagus,7
+1189,Other atherosclerosis of native arteries of the extremities,44029,other atherosclerosis of native arteries of the extremities,1
+1190,Pneumonia due to Legionnaires' disease,48284,pneumonia due to legionnaires disease,3
+1191,Aortic aneurysm of unspecified site without mention of rupture,4419,aortic aneurysm of unspecified site without mention of rupture,7
+1192,Deviated nasal septum,470,deviated nasal septum,1
+1193,Hallucinations,7801,hallucinations,1
+1194,Other lymphedema,4571,other lymphedema,1
+1195,Stricture or kinking of ureter,5933,stricture or kinking of ureter,1
+1196,Hiccough,7868,hiccough,1
+1197,"Concussion, unspecified",8509,concussion unspecified,7
+1198,"Peptic ulcer of unspecified site, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",53390,peptic ulcer of unspecified site unspecified as acute or chronic without mention of hemorrhage or perforation without mention of obstruction,4
+1199,"Excessive fetal growth, affecting management of mother, antepartum condition or complication",65663,excessive fetal growth affecting management of mother antepartum condition or complication,1
+1200,Aftercare for healing traumatic fracture of lower leg,V5416,aftercare for healing traumatic fracture of lower leg,9
+1201,"Chronic or unspecified peptic ulcer of unspecified site with hemorrhage, without mention of obstruction",53340,chronic or unspecified peptic ulcer of unspecified site with hemorrhage without mention of obstruction,4
+1202,Fitting and adjustment of cardiac pacemaker,V5331,fitting and adjustment of cardiac pacemaker,1
+1203,"Osteoarthrosis, localized, not specified whether primary or secondary, site unspecified",71530,osteoarthrosis localized not specified whether primary or secondary site unspecified,3
+1204,Aftercare for healing traumatic fracture of other bone,V5419,aftercare for healing traumatic fracture of other bone,10
+1205,Acute epiglottitis with obstruction,46431,acute epiglottitis with obstruction,5
+1206,"Calculus of gallbladder with other cholecystitis, with obstruction",57411,calculus of gallbladder with other cholecystitis with obstruction,4
+1207,"Other, mixed, or unspecified drug abuse, unspecified",30590,other mixed or unspecified drug abuse unspecified,7
+1208,"Dependence on respirator, status",V4611,dependence on respirator status,1
+1209,"Aseptic necrosis of bone, site unspecified",73340,aseptic necrosis of bone site unspecified,7
+1210,Foreign body in pharynx,9330,foreign body in pharynx,1
+1211,"Major depressive affective disorder, recurrent episode, moderate",29632,major depressive affective disorder recurrent episode moderate,1
+1212,Other bilateral bundle branch block,42653,other bilateral bundle branch block,1
+1213,"Combinations of opioid type drug with any other drug dependence, unspecified",30470,combinations of opioid type drug with any other drug dependence unspecified,6
+1214,Anorexia,7830,anorexia,1
+1215,Anemia in neoplastic disease,28522,anemia in neoplastic disease,3
+1216,"Other orchitis, epididymitis, and epididymo-orchitis, without mention of abscess",60499,other orchitis epididymitis and epididymoorchitis without mention of abscess,1
+1217,Contusion of lung without mention of open wound into thorax,86121,contusion of lung without mention of open wound into thorax,0
+1218,"Heat exhaustion, unspecified",9925,heat exhaustion unspecified,7
+1219,Cellulitis and abscess of other specified sites,6828,cellulitis and abscess of other specified sites,3
+1220,Systemic lupus erythematosus,7100,systemic lupus erythematosus,1
+1221,Other sprains and strains of ankle,84509,other sprains and strains of ankle,1
+1222,Uterine prolapse without mention of vaginal wall prolapse,6181,uterine prolapse without mention of vaginal wall prolapse,1
+1223,Malignant neoplasm of urethra,1893,malignant neoplasm of urethra,2
+1224,"Combinations of drug dependence excluding opioid type drug, unspecified",30480,combinations of drug dependence excluding opioid type drug unspecified,6
+1225,"Malignant neoplasm of tongue, unspecified",1419,malignant neoplasm of tongue unspecified,2
+1226,Other noninfectious disorders of lymphatic channels,4578,other noninfectious disorders of lymphatic channels,1
+1227,"Peripheral vertigo, unspecified",38610,peripheral vertigo unspecified,7
+1228,Pneumonia due to Hemophilus influenzae [H. influenzae],4822,pneumonia due to hemophilus influenzae h influenzae,1
+1229,Other specified mycobacterial diseases,0318,other specified mycobacterial diseases,3
+1230,"Pneumonia due to Streptococcus, unspecified",48230,pneumonia due to streptococcus unspecified,7
+1231,Unspecified chronic bronchitis,4919,unspecified chronic bronchitis,3
+1232,Malignant neoplasm of ampulla of vater,1562,malignant neoplasm of ampulla of vater,2
+1233,"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites",20190,hodgkins disease unspecified type unspecified site extranodal and solid organ sites,7
+1234,Secondary malignant neoplasm of kidney,1980,secondary malignant neoplasm of kidney,2
+1235,Sprains and strains of unspecified site of hip and thigh,8439,sprains and strains of unspecified site of hip and thigh,7
+1236,Closed fracture of upper end of fibula with tibia,82302,closed fracture of upper end of fibula with tibia,10
+1237,Benign neoplasm of thymus,2126,benign neoplasm of thymus,2
+1238,"Vascular dementia, uncomplicated",29040,vascular dementia uncomplicated,1
+1239,"Ménière's disease, unspecified",38600,ménières disease unspecified,3
+1240,Neoplasm of uncertain behavior of paraganglia,2373,neoplasm of uncertain behavior of paraganglia,2
+1241,Anemia of other chronic disease,28529,anemia of other chronic disease,3
+1242,Unspecified disorder of skin and subcutaneous tissue,7099,unspecified disorder of skin and subcutaneous tissue,7
+1243,Malignant neoplasm of other specified sites of pancreas,1578,malignant neoplasm of other specified sites of pancreas,2
+1244,"Cocaine abuse, unspecified",30560,cocaine abuse unspecified,7
+1245,Closed fracture of sternum,8072,closed fracture of sternum,10
+1246,Unspecified nonpsychotic mental disorder following organic brain damage,3109,unspecified nonpsychotic mental disorder following organic brain damage,7
+1247,Carbuncle and furuncle of trunk,6802,carbuncle and furuncle of trunk,1
+1248,"Schizoaffective disorder, subchronic with acute exacerbation",29573,schizoaffective disorder subchronic with acute exacerbation,5
+1249,"Poisoning by aromatic analgesics, not elsewhere classified",9654,poisoning by aromatic analgesics not elsewhere classified,1
+1250,Listeriosis,0270,listeriosis,1
+1251,Aphasia,7843,aphasia,1
+1252,"Cortex (cerebral) contusion without mention of open intracranial wound, with loss of consciousness of unspecified duration",85106,cortex cerebral contusion without mention of open intracranial wound with loss of consciousness of unspecified duration,0
+1253,Closed fracture of midcervical section of neck of femur,82002,closed fracture of midcervical section of neck of femur,10
+1254,"Malignant neoplasm of brain, unspecified",1919,malignant neoplasm of brain unspecified,2
+1255,Acute cystitis,5950,acute cystitis,5
+1256,Other and unspecified postsurgical nonabsorption,5793,other and unspecified postsurgical nonabsorption,7
+1257,"Malignant neoplasm of hypopharynx, unspecified site",1489,malignant neoplasm of hypopharynx unspecified site,2
+1258,"Hernia of unspecified site, with obstruction",5529,hernia of unspecified site with obstruction,4
+1259,Stress fracture of other bone,73395,stress fracture of other bone,10
+1260,Chronic or unspecified parametritis and pelvic cellulitis,6144,chronic or unspecified parametritis and pelvic cellulitis,3
+1261,Toxic encephalopathy,34982,toxic encephalopathy,1
+1262,Unspecified disorder of thyroid,2469,unspecified disorder of thyroid,7
+1263,Unspecified disorder of gallbladder,5759,unspecified disorder of gallbladder,7
+1264,Pneumocystosis,1363,pneumocystosis,1
+1265,"Alcohol abuse, continuous",30501,alcohol abuse continuous,1
+1266,"Unspecified leukemia, without mention of having achieved remission",20890,unspecified leukemia without mention of having achieved remission,7
+1267,Cachexia,7994,cachexia,1
+1268,Localized adiposity,2781,localized adiposity,1
+1269,Concussion with loss of consciousness of unspecified duration,8505,concussion with loss of consciousness of unspecified duration,0
+1270,Mastodynia,61171,mastodynia,1
+1271,Other kyphosis (acquired),73719,other kyphosis acquired,1
+1272,"Other lymphoid leukemia, without mention of having achieved remission",20480,other lymphoid leukemia without mention of having achieved remission,1
+1273,"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage I through stage IV, or unspecified",40300,hypertensive chronic kidney disease malignant with chronic kidney disease stage i through stage iv or unspecified,3
+1274,"Acute myocardial infarction of other anterior wall, episode of care unspecified",41010,acute myocardial infarction of other anterior wall episode of care unspecified,5
+1275,Lipoma of other specified sites,2148,lipoma of other specified sites,3
+1276,Interstitial emphysema,5181,interstitial emphysema,1
+1277,"Gastric ulcer, unspecified as acute or chronic, without mention of hemorrhage or perforation, without mention of obstruction",53190,gastric ulcer unspecified as acute or chronic without mention of hemorrhage or perforation without mention of obstruction,4
+1278,Other specified visual disturbances,3688,other specified visual disturbances,3
+1279,"Malignant neoplasm of connective and other soft tissue of trunk, unspecified",1717,malignant neoplasm of connective and other soft tissue of trunk unspecified,2
+1280,Poisoning by hydantoin derivatives,9661,poisoning by hydantoin derivatives,1
+1281,Hernia of unspecified site without mention of obstruction or gangrene,5539,hernia of unspecified site without mention of obstruction or gangrene,4
+1282,Acute appendicitis with peritoneal abscess,5401,acute appendicitis with peritoneal abscess,5
+1283,Other injury of other sites of trunk,95919,other injury of other sites of trunk,1
+1284,Unspecified site of spinal cord injury without evidence of spinal bone injury,9529,unspecified site of spinal cord injury without evidence of spinal bone injury,7
+1285,Drug induced neutropenia,28803,drug induced neutropenia,1
+1286,"Closed fracture of condyle, femoral",82121,closed fracture of condyle femoral,10
+1287,Compression of vein,4592,compression of vein,1
+1288,"Multiple and unspecified open wound of lower limb, without mention of complication",8940,multiple and unspecified open wound of lower limb without mention of complication,0
+1289,Thoracic spondylosis without myelopathy,7212,thoracic spondylosis without myelopathy,1
+1290,Stress fracture of femoral neck,73396,stress fracture of femoral neck,10
+1291,"Combined systolic and diastolic heart failure, unspecified",42840,combined systolic and diastolic heart failure unspecified,3
+1292,Malignant neoplasm of supraglottis,1611,malignant neoplasm of supraglottis,2
+1293,Poisoning by unspecified sedative or hypnotic,9679,poisoning by unspecified sedative or hypnotic,7
+1294,Polyneuropathy due to drugs,3576,polyneuropathy due to drugs,1
+1295,Unspecified viral meningitis,0479,unspecified viral meningitis,7
+1296,Below knee amputation status,V4975,below knee amputation status,1
+1297,Benign neoplasm of parathyroid gland,2271,benign neoplasm of parathyroid gland,2
+1298,Neoplasm of unspecified nature of digestive system,2390,neoplasm of unspecified nature of digestive system,2
+1299,"Paranoid type schizophrenia, subchronic with acute exacerbation",29533,paranoid type schizophrenia subchronic with acute exacerbation,5
+1300,Dermatitis due to drugs and medicines taken internally,6930,dermatitis due to drugs and medicines taken internally,1
+1301,"Unspecified adverse effect of other drug, medicinal and biological substance",99529,unspecified adverse effect of other drug medicinal and biological substance,7
+1302,Tracheoesophageal fistula,53084,tracheoesophageal fistula,1
+1303,Malignant neoplasm of central portion of female breast,1741,malignant neoplasm of central portion of female breast,2
+1304,Sprains and strains of other specified sites of knee and leg,8448,sprains and strains of other specified sites of knee and leg,3
+1305,Heartburn,7871,heartburn,1
+1306,Closed fracture of eight or more ribs,80708,closed fracture of eight or more ribs,10
+1307,"Other specified gastritis, without mention of hemorrhage",53540,other specified gastritis without mention of hemorrhage,3
+1308,Malignant neoplasm of cheek mucosa,1450,malignant neoplasm of cheek mucosa,2
+1309,"Unspecified osteomyelitis, hand",73024,unspecified osteomyelitis hand,7
+1310,Other nonspecific findings on examination of blood,79099,other nonspecific findings on examination of blood,1
+1311,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness",85200,subarachnoid hemorrhage following injury without mention of open intracranial wound unspecified state of consciousness,0
+1312,Aneurysm of iliac artery,4422,aneurysm of iliac artery,1
+1313,"Migraine, unspecified, without mention of intractable migraine with status migrainosus",34692,migraine unspecified without mention of intractable migraine with status migrainosus,1
+1314,Foreign body in anus and rectum,937,foreign body in anus and rectum,1
+1315,Malignant neoplasm of lateral wall of urinary bladder,1882,malignant neoplasm of lateral wall of urinary bladder,2
+1316,Acute mastoiditis without complications,38300,acute mastoiditis without complications,5
+1317,"Heart disease, unspecified",4299,heart disease unspecified,3
+1318,Poisoning by central nervous system muscle-tone depressants,9680,poisoning by central nervous system muscletone depressants,1
+1319,"Late effects of cerebrovascular disease, aphasia",43811,late effects of cerebrovascular disease aphasia,3
+1320,"Neoplasm of uncertain behavior of trachea, bronchus, and lung",2357,neoplasm of uncertain behavior of trachea bronchus and lung,2
+1321,"Pyogenic arthritis, shoulder region",71101,pyogenic arthritis shoulder region,1
+1322,Angiodysplasia of intestine with hemorrhage,56985,angiodysplasia of intestine with hemorrhage,1
+1323,"Tracheostomy complication, unspecified",51900,tracheostomy complication unspecified,7
+1324,Attention to tracheostomy,V550,attention to tracheostomy,1
+1325,"Toxic effect of unspecified substance, chiefly nonmedicinal as to source",9899,toxic effect of unspecified substance chiefly nonmedicinal as to source,7
+1326,Sebaceous cyst,7062,sebaceous cyst,1
+1327,Other hyperparathyroidism,25208,other hyperparathyroidism,1
+1328,Aspergillosis,1173,aspergillosis,1
+1329,"Food poisoning, unspecified",0059,food poisoning unspecified,7
+1330,Benign paroxysmal positional vertigo,38611,benign paroxysmal positional vertigo,1
+1331,"Other threatened labor, unspecified as to episode of care or not applicable",64410,other threatened labor unspecified as to episode of care or not applicable,7
+1332,Poisoning by skeletal muscle relaxants,9752,poisoning by skeletal muscle relaxants,1
+1333,"Subdural hemorrhage following injury without mention of open intracranial wound, with moderate [1-24 hours] loss of consciousness",85223,subdural hemorrhage following injury without mention of open intracranial wound with moderate 124 hours loss of consciousness,0
+1334,"Malignant neoplasm of esophagus, unspecified site",1509,malignant neoplasm of esophagus unspecified site,2
+1335,"Other affections of shoulder region, not elsewhere classified",7262,other affections of shoulder region not elsewhere classified,1
+1336,Fitting and adjustment of extracorporeal dialysis catheter,V561,fitting and adjustment of extracorporeal dialysis catheter,1
+1337,"Other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound, with no loss of consciousness",85301,other and unspecified intracranial hemorrhage following injury without mention of open intracranial wound with no loss of consciousness,0
+1338,Other retroperitoneal abscess,56738,other retroperitoneal abscess,1
+1339,Explosive personality disorder,3013,explosive personality disorder,1
+1340,Senile dementia with delusional features,29020,senile dementia with delusional features,1
+1341,"Late effects of cerebrovascular disease, alterations of sensations",4386,late effects of cerebrovascular disease alterations of sensations,3
+1342,Trigeminal neuralgia,3501,trigeminal neuralgia,1
+1343,Elevated prostate specific antigen [PSA],79093,elevated prostate specific antigen psa,1
+1344,Unspecified viral hepatitis C without hepatic coma,07070,unspecified viral hepatitis c without hepatic coma,7
+1345,Paraplegia,3441,paraplegia,1
+1346,Dissection of coronary artery,41412,dissection of coronary artery,1
+1347,Closed fracture of greater tuberosity of humerus,81203,closed fracture of greater tuberosity of humerus,10
+1348,"Disorganized type schizophrenia, chronic with acute exacerbation",29514,disorganized type schizophrenia chronic with acute exacerbation,5
+1349,Malignant neoplasm of other specified sites of small intestine,1528,malignant neoplasm of other specified sites of small intestine,2
+1350,Neoplasm of unspecified nature of endocrine glands and other parts of nervous system,2397,neoplasm of unspecified nature of endocrine glands and other parts of nervous system,2
+1351,Benign neoplasm of brain,2250,benign neoplasm of brain,2
+1352,Cyanosis,7825,cyanosis,1
+1353,Unspecified drug-induced mental disorder,2929,unspecified druginduced mental disorder,7
+1354,Peritonitis (acute) generalized,56721,peritonitis acute generalized,5
+1355,Bunion,7271,bunion,1
+1356,Umbilical hernia without mention of obstruction or gangrene,5531,umbilical hernia without mention of obstruction or gangrene,4
+1357,"Infection following other infusion, injection, transfusion, or vaccination",99939,infection following other infusion injection transfusion or vaccination,1
+1358,Benign neoplasm of ovary,220,benign neoplasm of ovary,2
+1359,"Diabetes with renal manifestations, type II or unspecified type, uncontrolled",25042,diabetes with renal manifestations type ii or unspecified type uncontrolled,6
+1360,"Chronic pulmonary heart disease, unspecified",4169,chronic pulmonary heart disease unspecified,3
+1361,Other diseases of spleen,28959,other diseases of spleen,1
+1362,Other chronic pain,33829,other chronic pain,3
+1363,Pneumonia due to escherichia coli [E. coli],48282,pneumonia due to escherichia coli e coli,1
+1364,Malignant neoplasm of other specified sites of stomach,1518,malignant neoplasm of other specified sites of stomach,2
+1365,"Carcinoma in situ, vulva",23332,carcinoma in situ vulva,1
+1366,Unspecified prolapse of vaginal walls,61800,unspecified prolapse of vaginal walls,7
+1367,"Pressure ulcer, elbow",70701,pressure ulcer elbow,1
+1368,Anxiety disorder in conditions classified elsewhere,29384,anxiety disorder in conditions classified elsewhere,1
+1369,Sprain of unspecified site of back,8479,sprain of unspecified site of back,7
+1370,Contusion of back,92231,contusion of back,1
+1371,Metabolic encephalopathy,34831,metabolic encephalopathy,1
+1372,"Disruption of wound, unspecified",99830,disruption of wound unspecified,7
+1373,Phlebitis and thrombophlebitis of deep veins of upper extremities,45183,phlebitis and thrombophlebitis of deep veins of upper extremities,1
+1374,"Vascular dementia, with depressed mood",29043,vascular dementia with depressed mood,1
+1375,"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus",34690,migraine unspecified without mention of intractable migraine without mention of status migrainosus,1
+1376,Transient retinal arterial occlusion,36234,transient retinal arterial occlusion,1
+1377,Mitral valve stenosis and aortic valve insufficiency,3961,mitral valve stenosis and aortic valve insufficiency,1
+1378,"Neoplasm of uncertain behavior of pleura, thymus, and mediastinum",2358,neoplasm of uncertain behavior of pleura thymus and mediastinum,2
+1379,Other anaphylactic reaction,9950,other anaphylactic reaction,1
+1380,Nonspecific low blood pressure reading,7963,nonspecific low blood pressure reading,1
+1381,"Spondylolysis, lumbosacral region",75611,spondylolysis lumbosacral region,1
+1382,Disorders of magnesium metabolism,2752,disorders of magnesium metabolism,1
+1383,"Pressure ulcer, ankle",70706,pressure ulcer ankle,1
+1384,Other disorders of menstruation and other abnormal bleeding from female genital tract,6268,other disorders of menstruation and other abnormal bleeding from female genital tract,1
+1385,Slow transit constipation,56401,slow transit constipation,1
+1386,Unspecified disease of the jaws,5269,unspecified disease of the jaws,3
+1387,Other specified episodic mood disorder,29699,other specified episodic mood disorder,3
+1388,Emphysema (subcutaneous) (surgical) resulting from procedure,99881,emphysema subcutaneous surgical resulting from procedure,1
+1389,Coronary artery anomaly,74685,coronary artery anomaly,1
+1390,"Acute myocardial infarction of other lateral wall, initial episode of care",41051,acute myocardial infarction of other lateral wall initial episode of care,5
+1391,"Schizoaffective disorder, chronic",29572,schizoaffective disorder chronic,3
+1392,Intramural leiomyoma of uterus,2181,intramural leiomyoma of uterus,1
+1393,Disorders of sacrum,7246,disorders of sacrum,1
+1394,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with loss of consciousness of unspecified duration",85206,subarachnoid hemorrhage following injury without mention of open intracranial wound with loss of consciousness of unspecified duration,0
+1395,Malignant melanoma of skin of scalp and neck,1724,malignant melanoma of skin of scalp and neck,1
+1396,"Other and unspecified disc disorder, unspecified region",72290,other and unspecified disc disorder unspecified region,7
+1397,"Toxic effect of unspecified gas, fume, or vapor",9879,toxic effect of unspecified gas fume or vapor,7
+1398,Acute vascular insufficiency of intestine,5570,acute vascular insufficiency of intestine,5
+1399,"Urinary obstruction, unspecified",59960,urinary obstruction unspecified,4
+1400,Pure hyperglyceridemia,2721,pure hyperglyceridemia,1
+1401,Foreign body in stomach,9352,foreign body in stomach,1
+1402,Closed fracture of neck of metacarpal bone(s),81504,closed fracture of neck of metacarpal bones,10
+1403,Malnutrition of mild degree,2631,malnutrition of mild degree,1
+1404,Closed fracture of unspecified part of lower end of humerus,81240,closed fracture of unspecified part of lower end of humerus,10
+1405,Toxic effect of venom,9895,toxic effect of venom,1
+1406,Other specified acquired deformity of head,73819,other specified acquired deformity of head,3
+1407,Malignant neoplasm of lower-inner quadrant of female breast,1743,malignant neoplasm of lowerinner quadrant of female breast,2
+1408,"Diabetes with other coma, type II or unspecified type, not stated as uncontrolled",25030,diabetes with other coma type ii or unspecified type not stated as uncontrolled,6
+1409,Carcinoma in situ of bladder,2337,carcinoma in situ of bladder,1
+1410,Intermittent explosive disorder,31234,intermittent explosive disorder,1
+1411,Unspecified disorder of stomach and duodenum,5379,unspecified disorder of stomach and duodenum,7
+1412,First degree atrioventricular block,42611,first degree atrioventricular block,1
+1413,Drug-induced mood disorder,29284,druginduced mood disorder,1
+1414,Acute pulmonary manifestations due to radiation,5080,acute pulmonary manifestations due to radiation,5
+1415,Chronic maxillary sinusitis,4730,chronic maxillary sinusitis,3
+1416,Missed abortion,632,missed abortion,1
+1417,"Effusion of joint, upper arm",71902,effusion of joint upper arm,1
+1418,Benign essential hypertension,4011,benign essential hypertension,1
+1419,Other abscess of vulva,6164,other abscess of vulva,1
+1420,"Other complications due to other internal prosthetic device, implant, and graft",99679,other complications due to other internal prosthetic device implant and graft,8
+1421,"Blisters, epidermal loss [second degree] of lower leg",94524,blisters epidermal loss second degree of lower leg,9
+1422,"Intervertebral disc disorder with myelopathy, thoracic region",72272,intervertebral disc disorder with myelopathy thoracic region,1
+1423,Pemphigus,6944,pemphigus,1
+1424,"Inguinal hernia, without mention of obstruction or gangrene, bilateral (not specified as recurrent)",55092,inguinal hernia without mention of obstruction or gangrene bilateral not specified as recurrent,4
+1425,Angiodysplasia of stomach and duodenum without mention of hemorrhage,53782,angiodysplasia of stomach and duodenum without mention of hemorrhage,1
+1426,"Acute gastric ulcer with hemorrhage, without mention of obstruction",53100,acute gastric ulcer with hemorrhage without mention of obstruction,4
+1427,Gas gangrene,0400,gas gangrene,1
+1428,Ostium secundum type atrial septal defect,7455,ostium secundum type atrial septal defect,1
+1429,Malignant neoplasm of posterior wall of urinary bladder,1884,malignant neoplasm of posterior wall of urinary bladder,2
+1430,Other specified disorders of penis,60789,other specified disorders of penis,3
+1431,Cardiac tamponade,4233,cardiac tamponade,1
+1432,"Malignant neoplasm of larynx, unspecified",1619,malignant neoplasm of larynx unspecified,2
+1433,Benign neoplasm of bronchus and lung,2123,benign neoplasm of bronchus and lung,2
+1434,Myasthenia gravis with (acute) exacerbation,35801,myasthenia gravis with acute exacerbation,5
+1435,Unspecified paranoid state,2979,unspecified paranoid state,7
+1436,Other myelopathy,3368,other myelopathy,1
+1437,"Unspecified gastritis and gastroduodenitis, with hemorrhage",53551,unspecified gastritis and gastroduodenitis with hemorrhage,7
+1438,Senile dementia with delirium,2903,senile dementia with delirium,1
+1439,Unspecified otitis media,3829,unspecified otitis media,7
+1440,Other specified disorders of circulatory system,45989,other specified disorders of circulatory system,3
+1441,Chronic combined systolic and diastolic heart failure,42842,chronic combined systolic and diastolic heart failure,3
+1442,Other symptoms involving head and neck,78499,other symptoms involving head and neck,1
+1443,Unspecified acute reaction to stress,3089,unspecified acute reaction to stress,5
+1444,Malignant neoplasm of other specified sites of hypopharynx,1488,malignant neoplasm of other specified sites of hypopharynx,2
+1445,Glucocorticoid deficiency,25541,glucocorticoid deficiency,1
+1446,Asphyxia,79901,asphyxia,1
+1447,"Hyperparathyroidism, unspecified",25200,hyperparathyroidism unspecified,7
+1448,Other specified disorders of male genital organs,60889,other specified disorders of male genital organs,3
+1449,"Schizophreniform disorder, unspecified",29540,schizophreniform disorder unspecified,7
+1450,Closed fracture of head of radius,81305,closed fracture of head of radius,10
+1451,Heparin-induced thrombocytopenia (HIT),28984,heparininduced thrombocytopenia hit,1
+1452,Other abnormality of urination,78869,other abnormality of urination,1
+1453,Complications of transplanted pancreas,99686,complications of transplanted pancreas,8
+1454,"Labyrinthitis, unspecified",38630,labyrinthitis unspecified,7
+1455,"Effusion of joint, lower leg",71906,effusion of joint lower leg,9
+1456,Endocarditis in diseases classified elsewhere,42491,endocarditis in diseases classified elsewhere,1
+1457,"Duodenitis, without mention of hemorrhage",53560,duodenitis without mention of hemorrhage,1
+1458,"Unspecified noninflammatory disorder of ovary, fallopian tube, and broad ligament",6209,unspecified noninflammatory disorder of ovary fallopian tube and broad ligament,7
+1459,Pathologic fracture of other specified part of femur,73315,pathologic fracture of other specified part of femur,10
+1460,Closed fracture of other specified part of pelvis,80849,closed fracture of other specified part of pelvis,10
+1461,Prophylactic ovary removal,V5042,prophylactic ovary removal,1
+1462,Closed fracture of acromial end of clavicle,81003,closed fracture of acromial end of clavicle,10
+1463,Supervision of normal first pregnancy,V220,supervision of normal first pregnancy,1
+1464,"Chronic or unspecified duodenal ulcer with perforation, without mention of obstruction",53250,chronic or unspecified duodenal ulcer with perforation without mention of obstruction,4
+1465,Electrolyte and fluid disorders not elsewhere classified,2769,electrolyte and fluid disorders not elsewhere classified,1
+1466,"Recurrent dislocation of joint, ankle and foot",71837,recurrent dislocation of joint ankle and foot,1
+1467,Malignant neoplasm of nipple and areola of female breast,1740,malignant neoplasm of nipple and areola of female breast,2
+1468,Other injury of abdomen,95912,other injury of abdomen,1
+1469,"Polycystic kidney, unspecified type",75312,polycystic kidney unspecified type,6
+1470,Moderate dysplasia of cervix,62212,moderate dysplasia of cervix,1
+1471,Poisoning by anti-Parkinsonism drugs,9664,poisoning by antiparkinsonism drugs,1
+1472,Nontraumatic rupture of quadriceps tendon,72765,nontraumatic rupture of quadriceps tendon,1
+1473,"Pyogenic arthritis, site unspecified",71100,pyogenic arthritis site unspecified,7
+1474,Closed fracture of orbital floor (blow-out),8026,closed fracture of orbital floor blowout,10
+1475,"Unspecified fracture of ankle, open",8249,unspecified fracture of ankle open,10
+1476,"Other complications due to nervous system device, implant, and graft",99675,other complications due to nervous system device implant and graft,8
+1477,"Open wound of finger(s), complicated",8831,open wound of fingers complicated,0
+1478,"Infection and inflammatory reaction due to nervous system device, implant, and graft",99663,infection and inflammatory reaction due to nervous system device implant and graft,8
+1479,Chronic interstitial cystitis,5951,chronic interstitial cystitis,3
+1480,Other closed fracture of lower end of humerus,81249,other closed fracture of lower end of humerus,10
+1481,"Arthropathy, unspecified, shoulder region",71691,arthropathy unspecified shoulder region,7
+1482,"Dislocation of patella, closed",8363,dislocation of patella closed,10
+1483,"Other inflammatory disease of cervix, vagina and vulva",61689,other inflammatory disease of cervix vagina and vulva,3
+1484,Umbilical hernia with gangrene,5511,umbilical hernia with gangrene,4
+1485,Adjustment disorder with depressed mood,3090,adjustment disorder with depressed mood,1
+1486,Contusion of buttock,92232,contusion of buttock,1
+1487,Full-thickness skin loss [third degree NOS] of thigh [any part],94536,fullthickness skin loss third degree nos of thigh any part,1
+1488,"Elbow, forearm, and wrist injury",9593,elbow forearm and wrist injury,1
+1489,Closed fracture of epiphysis (separation) (upper) of neck of femur,82001,closed fracture of epiphysis separation upper of neck of femur,10
+1490,"Bimalleolar fracture, open",8245,bimalleolar fracture open,10
+1491,Posttraumatic wound infection not elsewhere classified,9583,posttraumatic wound infection not elsewhere classified,1
+1492,Other symptoms involving cardiovascular system,7859,other symptoms involving cardiovascular system,1
+1493,Closed fracture of unspecified part of fibula alone,82381,closed fracture of unspecified part of fibula alone,10
+1494,"Chronic osteomyelitis, pelvic region and thigh",73015,chronic osteomyelitis pelvic region and thigh,3
+1495,Tarsal tunnel syndrome,3555,tarsal tunnel syndrome,1
+1496,"Open wound of forehead, without mention of complication",87342,open wound of forehead without mention of complication,0
+1497,"Stiffness of joint, not elsewhere classified, lower leg",71956,stiffness of joint not elsewhere classified lower leg,9
+1498,"Traumatic arthropathy, ankle and foot",71617,traumatic arthropathy ankle and foot,1
+1499,"Hemiplegia, unspecified, affecting nondominant side",34292,hemiplegia unspecified affecting nondominant side,7
+1500,Open fracture of shaft of tibia alone,82330,open fracture of shaft of tibia alone,10
+1501,Adjustment disorder with mixed anxiety and depressed mood,30928,adjustment disorder with mixed anxiety and depressed mood,1
+1502,"Acute myocardial infarction of anterolateral wall, episode of care unspecified",41000,acute myocardial infarction of anterolateral wall episode of care unspecified,5
+1503,Other specified disorders of peritoneum,56889,other specified disorders of peritoneum,3
+1504,Fitting and adjustment of automatic implantable cardiac defibrillator,V5332,fitting and adjustment of automatic implantable cardiac defibrillator,1
+1505,"Open wound(s) (multiple) of unspecified site(s), without mention of complication",8798,open wounds multiple of unspecified sites without mention of complication,0
+1506,History of fall,V1588,history of fall,1
+1507,Other closed fracture of lower end of femur,82129,other closed fracture of lower end of femur,10
+1508,"Other mechanical complication of cardiac device, implant, and graft",99609,other mechanical complication of cardiac device implant and graft,8
+1509,"Staphylococcal septicemia, unspecified",03810,staphylococcal septicemia unspecified,7
+1510,Unspecified late effects of cerebrovascular disease,4389,unspecified late effects of cerebrovascular disease,3
+1511,"Hepatitis, unspecified",5733,hepatitis unspecified,7
+1512,Other diseases of trachea and bronchus,51919,other diseases of trachea and bronchus,1
+1513,Nonspecific (abnormal) findings on radiological and other examination of genitourinary organs,7935,nonspecific abnormal findings on radiological and other examination of genitourinary organs,1
+1514,Alcohol-induced persisting dementia,2912,alcoholinduced persisting dementia,1
+1515,Unspecified disorder of liver,5739,unspecified disorder of liver,7
+1516,Unspecified disorder of calcium metabolism,27540,unspecified disorder of calcium metabolism,7
+1517,Benign localized hyperplasia of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS),60021,benign localized hyperplasia of prostate with urinary obstruction and other lower urinary tract symptoms luts,9
+1518,"Traumatic arthropathy, lower leg",71616,traumatic arthropathy lower leg,9
+1519,"Colitis, enteritis, and gastroenteritis of presumed infectious origin",0091,colitis enteritis and gastroenteritis of presumed infectious origin,1
+1520,Benign neoplasm of cranial nerves,2251,benign neoplasm of cranial nerves,2
+1521,Other disease of nasal cavity and sinuses,47819,other disease of nasal cavity and sinuses,3
+1522,Nontraumatic rupture of other tendons of foot and ankle,72768,nontraumatic rupture of other tendons of foot and ankle,1
+1523,Subclavian steal syndrome,4352,subclavian steal syndrome,1
+1524,Benign neoplasm of rectum and anal canal,2114,benign neoplasm of rectum and anal canal,2
+1525,"Closed fracture of vault of skull with subarachnoid, subdural, and extradural hemorrhage, with no loss of consciousness",80021,closed fracture of vault of skull with subarachnoid subdural and extradural hemorrhage with no loss of consciousness,0
+1526,Malignant neoplasm of lower gum,1431,malignant neoplasm of lower gum,2
+1527,"Bilateral paralysis of vocal cords or larynx, partial",47833,bilateral paralysis of vocal cords or larynx partial,1
+1528,Malignant neoplasm of specified parts of peritoneum,1588,malignant neoplasm of specified parts of peritoneum,2
+1529,Neoplasm of uncertain behavior of connective and other soft tissue,2381,neoplasm of uncertain behavior of connective and other soft tissue,2
+1530,Neoplasm of uncertain behavior of other and unspecified digestive organs,2355,neoplasm of uncertain behavior of other and unspecified digestive organs,2
+1531,Cerebral edema,3485,cerebral edema,1
+1532,Transient alteration of awareness,78002,transient alteration of awareness,1
+1533,Feeding difficulties and mismanagement,7833,feeding difficulties and mismanagement,1
+1534,Other and unspecified mycoses,1179,other and unspecified mycoses,7
+1535,"Secondary cardiomyopathy, unspecified",4259,secondary cardiomyopathy unspecified,7
+1536,"Aftercare following surgery of the teeth, oral cavity and digestive system, NEC",V5875,aftercare following surgery of the teeth oral cavity and digestive system nec,1
+1537,Contusion of lower leg,92410,contusion of lower leg,9
+1538,Nonspecific abnormal results of other specified function study,7949,nonspecific abnormal results of other specified function study,3
+1539,Traumatic pneumohemothorax with open wound into thorax,8605,traumatic pneumohemothorax with open wound into thorax,0
+1540,"Unspecified osteomyelitis, forearm",73023,unspecified osteomyelitis forearm,7
+1541,"Aftercare following surgery of the musculoskeletal system, NEC",V5878,aftercare following surgery of the musculoskeletal system nec,1
+1542,"Toxic effect of other specified gases, fumes, or vapors",9878,toxic effect of other specified gases fumes or vapors,3
+1543,"Muscular wasting and disuse atrophy, not elsewhere classified",7282,muscular wasting and disuse atrophy not elsewhere classified,1
+1544,"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled",25001,diabetes mellitus without mention of complication type i juvenile type not stated as uncontrolled,6
+1545,"Calculus of gallbladder and bile duct with acute cholecystitis, with obstruction",57461,calculus of gallbladder and bile duct with acute cholecystitis with obstruction,4
+1546,Contusion of thigh,92400,contusion of thigh,1
+1547,Pleurisy without mention of effusion or current tuberculosis,5110,pleurisy without mention of effusion or current tuberculosis,1
+1548,Chronic frontal sinusitis,4731,chronic frontal sinusitis,3
+1549,Redundant prepuce and phimosis,605,redundant prepuce and phimosis,1
+1550,Unspecified ectopic pregnancy without intrauterine pregnancy,63390,unspecified ectopic pregnancy without intrauterine pregnancy,7
+1551,Malignant neoplasm of other specified sites of cervix,1808,malignant neoplasm of other specified sites of cervix,2
+1552,Aseptic necrosis of head of humerus,73341,aseptic necrosis of head of humerus,1
+1553,Encounter for breast reconstruction following mastectomy,V510,encounter for breast reconstruction following mastectomy,1
+1554,Other amyloidosis,27739,other amyloidosis,1
+1555,Chronic viral hepatitis B with hepatic coma without hepatitis delta,07022,chronic viral hepatitis b with hepatic coma without hepatitis delta,1
+1556,"Neuralgia, neuritis, and radiculitis, unspecified",7292,neuralgia neuritis and radiculitis unspecified,7
+1557,Malignant neoplasm of splenic flexure,1537,malignant neoplasm of splenic flexure,2
+1558,"Localized superficial swelling, mass, or lump",7822,localized superficial swelling mass or lump,1
+1559,Closed fracture of sixth cervical vertebra,80506,closed fracture of sixth cervical vertebra,10
+1560,"Urinary calculus, unspecified",5929,urinary calculus unspecified,7
+1561,Other acquired deformity of other parts of limb,73689,other acquired deformity of other parts of limb,1
+1562,Poisoning by antineoplastic and immunosuppressive drugs,9631,poisoning by antineoplastic and immunosuppressive drugs,1
+1563,Peritoneal adhesions (postoperative) (postinfection),5680,peritoneal adhesions postoperative postinfection,1
+1564,Other heart block,4266,other heart block,3
+1565,Multiple closed pelvic fractures with disruption of pelvic circle,80843,multiple closed pelvic fractures with disruption of pelvic circle,1
+1566,Stress fracture of shaft of femur,73397,stress fracture of shaft of femur,10
+1567,Dysthymic disorder,3004,dysthymic disorder,1
+1568,"Transient arthropathy, pelvic region and thigh",71645,transient arthropathy pelvic region and thigh,1
+1569,Hemorrhage into bladder wall,5967,hemorrhage into bladder wall,1
+1570,Varicose veins of lower extremities with ulcer and inflammation,4542,varicose veins of lower extremities with ulcer and inflammation,9
+1571,Traumatic pneumothorax without mention of open wound into thorax,8600,traumatic pneumothorax without mention of open wound into thorax,0
+1572,Malignant neoplasm of frontal lobe,1911,malignant neoplasm of frontal lobe,2
+1573,"Intracranial injury of other and unspecified nature without mention of open intracranial wound, unspecified state of consciousness",85400,intracranial injury of other and unspecified nature without mention of open intracranial wound unspecified state of consciousness,0
+1574,Foreign body in esophagus,9351,foreign body in esophagus,1
+1575,Myasthenia gravis without (acute) exacerbation,35800,myasthenia gravis without acute exacerbation,5
+1576,Acute maxillary sinusitis,4610,acute maxillary sinusitis,5
+1577,Unspecified disorder of prostate,6029,unspecified disorder of prostate,7
+1578,"Quadriplegia, C1-C4, incomplete",34402,quadriplegia c1c4 incomplete,1
+1579,"Open wound(s) (multiple) of unspecified site(s), complicated",8799,open wounds multiple of unspecified sites complicated,7
+1580,Other acute pericarditis,42099,other acute pericarditis,5
+1581,"Other closed skull fracture with subarachnoid, subdural, and extradural hemorrhage, with loss of consciousness of unspecified duration",80326,other closed skull fracture with subarachnoid subdural and extradural hemorrhage with loss of consciousness of unspecified duration,0
+1582,Other premature beats,42769,other premature beats,1
+1583,"Other and unspecified malignant neoplasms of lymphoid and histiocytic tissue, unspecified site, extranodal and solid organ sites",20290,other and unspecified malignant neoplasms of lymphoid and histiocytic tissue unspecified site extranodal and solid organ sites,7
+1584,Neoplasm of unspecified nature of breast,2393,neoplasm of unspecified nature of breast,2
+1585,Polydipsia,7835,polydipsia,1
+1586,Chills (without fever),78064,chills without fever,1
+1587,Hemoperitoneum (nontraumatic),56881,hemoperitoneum nontraumatic,1
+1588,"Pyogenic arthritis, forearm",71103,pyogenic arthritis forearm,1
+1589,Cushing's syndrome,2550,cushings syndrome,1
+1590,Systemic sclerosis,7101,systemic sclerosis,1
+1591,"Aseptic necrosis of bone, jaw",73345,aseptic necrosis of bone jaw,1
+1592,Other prolapse of vaginal walls without mention of uterine prolapse,61809,other prolapse of vaginal walls without mention of uterine prolapse,1
+1593,Occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction,43331,occlusion and stenosis of multiple and bilateral precerebral arteries with cerebral infarction,1
+1594,Mechanical complication of tracheostomy,51902,mechanical complication of tracheostomy,1
+1595,"Pyogenic arthritis, ankle and foot",71107,pyogenic arthritis ankle and foot,1
+1596,"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified",71430,polyarticular juvenile rheumatoid arthritis chronic or unspecified,3
+1597,"Other noninflammatory disorders of ovary, fallopian tube, and broad ligament",6208,other noninflammatory disorders of ovary fallopian tube and broad ligament,1
+1598,Unspecified visual loss,3699,unspecified visual loss,7
+1599,Normal delivery,650,normal delivery,1
+1600,Poisoning by antiallergic and antiemetic drugs,9630,poisoning by antiallergic and antiemetic drugs,1
+1601,Extrinsic asthma with (acute) exacerbation,49302,extrinsic asthma with acute exacerbation,5
+1602,Laryngeal spasm,47875,laryngeal spasm,1
+1603,Cyst and pseudocyst of pancreas,5772,cyst and pseudocyst of pancreas,1
+1604,Closed fracture of other facial bones,8028,closed fracture of other facial bones,10
+1605,"Impaction of intestine, unspecified",56030,impaction of intestine unspecified,7
+1606,"Fracture of lateral malleolus, closed",8242,fracture of lateral malleolus closed,10
+1607,Aftercare for healing traumatic fracture of upper leg,V5415,aftercare for healing traumatic fracture of upper leg,10
+1608,"Calculus of gallbladder and bile duct with other cholecystitis, with obstruction",57471,calculus of gallbladder and bile duct with other cholecystitis with obstruction,4
+1609,Acquired absence of breast and nipple,V4571,acquired absence of breast and nipple,1
+1610,Contact dermatitis and other eczema due to plants [except food],6926,contact dermatitis and other eczema due to plants except food,1
+1611,Chronic pyelonephritis without lesion of renal medullary necrosis,59000,chronic pyelonephritis without lesion of renal medullary necrosis,1
+1612,Stiff-man syndrome,33391,stiffman syndrome,1
+1613,"Hyperemesis gravidarum with metabolic disturbance, antepartum condition or complication",64313,hyperemesis gravidarum with metabolic disturbance antepartum condition or complication,1
+1614,"Chronic or unspecified peptic ulcer of unspecified site with perforation, without mention of obstruction",53350,chronic or unspecified peptic ulcer of unspecified site with perforation without mention of obstruction,4
+1615,Injury to popliteal artery,90441,injury to popliteal artery,1
+1616,Hypertensive encephalopathy,4372,hypertensive encephalopathy,1
+1617,Malignant neoplasm of hard palate,1452,malignant neoplasm of hard palate,2
+1618,"Postlaminectomy syndrome, thoracic region",72282,postlaminectomy syndrome thoracic region,1
+1619,Unspecified complication of amputation stump,99760,unspecified complication of amputation stump,7
+1620,Chronic ethmoidal sinusitis,4732,chronic ethmoidal sinusitis,3
+1621,Panic disorder without agoraphobia,30001,panic disorder without agoraphobia,1
+1622,Unspecified disorder of adrenal glands,2559,unspecified disorder of adrenal glands,7
+1623,Drug-induced psychotic disorder with hallucinations,29212,druginduced psychotic disorder with hallucinations,1
+1624,Carotid sinus syndrome,33701,carotid sinus syndrome,1
+1625,Malignant neoplasm of islets of langerhans,1574,malignant neoplasm of islets of langerhans,2
+1626,"Pain in joint, multiple sites",71949,pain in joint multiple sites,1
+1627,Primary hyperparathyroidism,25201,primary hyperparathyroidism,1
+1628,"Stress incontinence, male",78832,stress incontinence male,1
+1629,Benign neoplasm of bones of skull and face,2130,benign neoplasm of bones of skull and face,2
+1630,"Salpingitis and oophoritis not specified as acute, subacute, or chronic",6142,salpingitis and oophoritis not specified as acute subacute or chronic,5
+1631,Iatrogenic pulmonary embolism and infarction,41511,iatrogenic pulmonary embolism and infarction,1
+1632,Stricture of artery,4471,stricture of artery,1
+1633,Other urinary incontinence,78839,other urinary incontinence,1
+1634,Other specified disorders of parathyroid gland,2528,other specified disorders of parathyroid gland,3
+1635,"Chronic osteomyelitis, other specified sites",73018,chronic osteomyelitis other specified sites,3
+1636,"Neurosyphilis, unspecified",0949,neurosyphilis unspecified,7
+1637,Closed fracture of malar and maxillary bones,8024,closed fracture of malar and maxillary bones,10
+1638,"Dysphagia, oropharyngeal phase",78722,dysphagia oropharyngeal phase,1
+1639,"Intrauterine death, affecting management of mother, antepartum condition or complication",65643,intrauterine death affecting management of mother antepartum condition or complication,1
+1640,Nodular prostate without urinary obstruction,60010,nodular prostate without urinary obstruction,4
+1641,Malignant neoplasm of head of pancreas,1570,malignant neoplasm of head of pancreas,2
+1642,Other specified disorders of stomach and duodenum,53789,other specified disorders of stomach and duodenum,3
+1643,Amyotrophic lateral sclerosis,33520,amyotrophic lateral sclerosis,1
+1644,"Neoplasm of unspecified nature of bone, soft tissue, and skin",2392,neoplasm of unspecified nature of bone soft tissue and skin,2
+1645,Unspecified disorders of menstruation and other abnormal bleeding from female genital tract,6269,unspecified disorders of menstruation and other abnormal bleeding from female genital tract,7
+1646,"Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication",64803,diabetes mellitus of mother complicating pregnancy childbirth or the puerperium antepartum condition or complication,1
+1647,Other severe protein-calorie malnutrition,262,other severe proteincalorie malnutrition,1
+1648,Lipoma of intra-abdominal organs,2143,lipoma of intraabdominal organs,1
+1649,"Burn of unspecified degree of lower limb [leg], unspecified site",94500,burn of unspecified degree of lower limb leg unspecified site,9
+1650,Malignant neoplasm of parietal lobe,1913,malignant neoplasm of parietal lobe,2
+1651,Tietze's disease,7336,tietzes disease,3
+1652,"Blisters, epidermal loss [second degree] of multiple sites of lower limb(s)",94529,blisters epidermal loss second degree of multiple sites of lower limbs,9
+1653,Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH],7904,nonspecific elevation of levels of transaminase or lactic acid dehydrogenase ldh,1
+1654,Undifferentiated somatoform disorder,30082,undifferentiated somatoform disorder,1
+1655,Acute prostatitis,6010,acute prostatitis,5
+1656,"Other and unspecified disc disorder, lumbar region",72293,other and unspecified disc disorder lumbar region,7
+1657,"Other disorders of muscle, ligament, and fascia",72889,other disorders of muscle ligament and fascia,1
+1658,"Other and unspecified disc disorder, cervical region",72291,other and unspecified disc disorder cervical region,7
+1659,Neoplasm of uncertain behavior of kidney and ureter,23691,neoplasm of uncertain behavior of kidney and ureter,2
+1660,Dermatophytosis of groin and perianal area,1103,dermatophytosis of groin and perianal area,1
+1661,Enteritis due to norwalk virus,00863,enteritis due to norwalk virus,1
+1662,Dysmenorrhea,6253,dysmenorrhea,1
+1663,Unspecified disorder of biliary tract,5769,unspecified disorder of biliary tract,7
+1664,Transient global amnesia,4377,transient global amnesia,1
+1665,Other stomatitis and mucositis (ulcerative),52809,other stomatitis and mucositis ulcerative,1
+1666,"Inguinal hernia, with obstruction, without mention of gangrene, unilateral or unspecified,recurrent",55011,inguinal hernia with obstruction without mention of gangrene unilateral or unspecifiedrecurrent,4
+1667,Tachypnea,78606,tachypnea,1
+1668,"Abnormal glucose tolerance of mother, delivered, with or without mention of antepartum condition",64881,abnormal glucose tolerance of mother delivered with or without mention of antepartum condition,1
+1669,Acquired cardiac septal defect,42971,acquired cardiac septal defect,1
+1670,Biliary cirrhosis,5716,biliary cirrhosis,1
+1671,Hereditary sensory neuropathy,3562,hereditary sensory neuropathy,1
+1672,"Acute osteomyelitis, shoulder region",73001,acute osteomyelitis shoulder region,5
+1673,Varicose veins of lower extremities with inflammation,4541,varicose veins of lower extremities with inflammation,9
+1674,Other injury of chest wall,95911,other injury of chest wall,1
+1675,"Atrioventricular block, unspecified",42610,atrioventricular block unspecified,7
+1676,"Ulceration of vulva, unspecified",61650,ulceration of vulva unspecified,7
+1677,"Conjunctivitis, unspecified",37230,conjunctivitis unspecified,7
+1678,Malignant neoplasm of connective and other soft tissue of abdomen,1715,malignant neoplasm of connective and other soft tissue of abdomen,2
+1679,Carcinoma in situ of colon,2303,carcinoma in situ of colon,1
+1680,Endometrial hyperplasia with atypia,62133,endometrial hyperplasia with atypia,1
+1681,"Labyrinthine dysfunction, unspecified",38650,labyrinthine dysfunction unspecified,7
+1682,Rupture of artery,4472,rupture of artery,1
+1683,"Severe pre-eclampsia, antepartum condition or complication",64253,severe preeclampsia antepartum condition or complication,1
+1684,Neuroleptic malignant syndrome,33392,neuroleptic malignant syndrome,2
+1685,"Malignant neoplasm of vertebral column, excluding sacrum and coccyx",1702,malignant neoplasm of vertebral column excluding sacrum and coccyx,2
+1686,Postprocedural fever,78062,postprocedural fever,1
+1687,"Calculus of gallbladder and bile duct with acute cholecystitis, without mention of obstruction",57460,calculus of gallbladder and bile duct with acute cholecystitis without mention of obstruction,4
+1688,Pneumonia due to other specified organism,4838,pneumonia due to other specified organism,3
+1689,"Osteoarthrosis, localized, not specified whether primary or secondary, upper arm",71532,osteoarthrosis localized not specified whether primary or secondary upper arm,3
+1690,"Polycystic kidney, autosomal dominant",75313,polycystic kidney autosomal dominant,1
+1691,"Chronic myeloid leukemia, without mention of having achieved remission",20510,chronic myeloid leukemia without mention of having achieved remission,1
+1692,Spontaneous ecchymoses,7827,spontaneous ecchymoses,1
+1693,Other chronic cystitis,5952,other chronic cystitis,3
+1694,Neoplasm of unspecified nature of respiratory system,2391,neoplasm of unspecified nature of respiratory system,2
+1695,Displacement of thoracic intervertebral disc without myelopathy,72211,displacement of thoracic intervertebral disc without myelopathy,1
+1696,Toxic effect of ethyl alcohol,9800,toxic effect of ethyl alcohol,1
+1697,Functional disturbances following cardiac surgery,4294,functional disturbances following cardiac surgery,1
+1698,Closed fracture of C1-C4 level with unspecified spinal cord injury,80600,closed fracture of c1c4 level with unspecified spinal cord injury,10
+1699,"Pyogenic arthritis, hand",71104,pyogenic arthritis hand,1
+1700,Acute tracheitis without mention of obstruction,46410,acute tracheitis without mention of obstruction,4
+1701,"Other leukemia of unspecified cell type, without mention of having achieved remission",20880,other leukemia of unspecified cell type without mention of having achieved remission,7
+1702,Acute and subacute necrosis of liver,570,acute and subacute necrosis of liver,5
+1703,Neoplasm of uncertain behavior of brain and spinal cord,2375,neoplasm of uncertain behavior of brain and spinal cord,2
+1704,Benign neoplasm of adrenal gland,2270,benign neoplasm of adrenal gland,2
+1705,"Viral hepatitis B with hepatic coma, acute or unspecified, without mention of hepatitis delta",07020,viral hepatitis b with hepatic coma acute or unspecified without mention of hepatitis delta,5
+1706,"Diabetes with renal manifestations, type I [juvenile type], uncontrolled",25043,diabetes with renal manifestations type i juvenile type uncontrolled,6
+1707,Toxic gastroenteritis and colitis,5582,toxic gastroenteritis and colitis,1
+1708,"Bipolar I disorder, most recent episode (or current) manic, mild",29641,bipolar i disorder most recent episode or current manic mild,1
+1709,Peritonsillar abscess,475,peritonsillar abscess,1
+1710,"Blisters, epidermal loss [second degree] of lower limb [leg], unspecified site",94520,blisters epidermal loss second degree of lower limb leg unspecified site,9
+1711,"Complications affecting other specified body systems, not elsewhere classified, hypertension",99791,complications affecting other specified body systems not elsewhere classified hypertension,8
+1712,Esophageal varices with bleeding,4560,esophageal varices with bleeding,1
+1713,"Cardiac complications, not elsewhere classified",9971,cardiac complications not elsewhere classified,8
+1714,Other closed anterior dislocation of hip,83503,other closed anterior dislocation of hip,10
+1715,Unspecified nontoxic nodular goiter,2419,unspecified nontoxic nodular goiter,7
+1716,Allergic purpura,2870,allergic purpura,1
+1717,Neuromyelitis optica,3410,neuromyelitis optica,1
+1718,Cyst of thyroid,2462,cyst of thyroid,1
+1719,Inflammatory conditions of jaw,5264,inflammatory conditions of jaw,1
+1720,Stress fracture of tibia or fibula,73393,stress fracture of tibia or fibula,10
+1721,"Presenile dementia, uncomplicated",29010,presenile dementia uncomplicated,1
+1722,Atherosclerosis of unspecified bypass graft of the extremities,44030,atherosclerosis of unspecified bypass graft of the extremities,7
+1723,Incomplete bladder emptying,78821,incomplete bladder emptying,1
+1724,Ulceration of intestine,56982,ulceration of intestine,1
+1725,Ulcer of anus and rectum,56941,ulcer of anus and rectum,1
+1726,"Mechanical complication due to graft of other tissue, not elsewhere classified",99652,mechanical complication due to graft of other tissue not elsewhere classified,8
+1727,"Contracture of joint, lower leg",71846,contracture of joint lower leg,9
+1728,Hallux valgus (acquired),7350,hallux valgus acquired,1
+1729,Other second degree atrioventricular block,42613,other second degree atrioventricular block,1
+1730,Atherosclerosis of aorta,4400,atherosclerosis of aorta,1
+1731,Reflex sympathetic dystrophy of the lower limb,33722,reflex sympathetic dystrophy of the lower limb,9
+1732,Occlusion and stenosis of basilar artery without mention of cerebral infarction,43300,occlusion and stenosis of basilar artery without mention of cerebral infarction,1
+1733,Hypoglycemic coma,2510,hypoglycemic coma,1
+1734,Sprain of lumbosacral (joint) (ligament),8460,sprain of lumbosacral joint ligament,1
+1735,Macroglobulinemia,2733,macroglobulinemia,1
+1736,Myoclonus,3332,myoclonus,1
+1737,"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication",64203,benign essential hypertension complicating pregnancy childbirth and the puerperium antepartum condition or complication,1
+1738,Anal and rectal polyp,5690,anal and rectal polyp,1
+1739,Nonspecific (abnormal) findings on radiological and other examination of other intrathoracic organs,7932,nonspecific abnormal findings on radiological and other examination of other intrathoracic organs,1
+1740,"Pyogenic arthritis, pelvic region and thigh",71105,pyogenic arthritis pelvic region and thigh,1
+1741,Secondary malignant neoplasm of ovary,1986,secondary malignant neoplasm of ovary,2
+1742,Closed fracture of C1-C4 level with other specified spinal cord injury,80604,closed fracture of c1c4 level with other specified spinal cord injury,10
+1743,Chronic pain syndrome,3384,chronic pain syndrome,3
+1744,Achalasia and cardiospasm,5300,achalasia and cardiospasm,1
+1745,Infective myositis,7280,infective myositis,1
+1746,"Bipolar I disorder, most recent episode (or current) mixed, moderate",29662,bipolar i disorder most recent episode or current mixed moderate,1
+1747,Malignant neoplasm of nasal cavities,1600,malignant neoplasm of nasal cavities,2
+1748,"Acquired hemolytic anemia, unspecified",2839,acquired hemolytic anemia unspecified,7
+1749,"Pain in joint, site unspecified",71940,pain in joint site unspecified,7
+1750,Closed fracture of unspecified vertebral column without mention of spinal cord injury,8058,closed fracture of unspecified vertebral column without mention of spinal cord injury,10
+1751,"Catatonic type schizophrenia, subchronic with acute exacerbation",29523,catatonic type schizophrenia subchronic with acute exacerbation,5
+1752,Other unspecified back disorders,7249,other unspecified back disorders,7
+1753,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm",24290,thyrotoxicosis without mention of goiter or other cause and without mention of thyrotoxic crisis or storm,1
+1754,Other acute reactions to stress,3083,other acute reactions to stress,5
+1755,Aftercare for healing pathologic fracture of hip,V5423,aftercare for healing pathologic fracture of hip,10
+1756,Open fracture of unspecified part of radius with ulna,81393,open fracture of unspecified part of radius with ulna,10
+1757,Chronic fatigue syndrome,78071,chronic fatigue syndrome,3
+1758,"Disorders of soft tissue, unspecified",72990,disorders of soft tissue unspecified,7
+1759,Open fracture of intertrochanteric section of neck of femur,82031,open fracture of intertrochanteric section of neck of femur,10
+1760,"Other and unspecified superficial injury of hip, thigh, leg, and ankle, without mention of infection",9168,other and unspecified superficial injury of hip thigh leg and ankle without mention of infection,7
+1761,"Closed fracture of phalanx or phalanges of hand, unspecified",81600,closed fracture of phalanx or phalanges of hand unspecified,10
+1762,Simple endometrial hyperplasia without atypia,62131,simple endometrial hyperplasia without atypia,1
+1763,Perforation of esophagus,5304,perforation of esophagus,1
+1764,"Recurrent dislocation of joint, shoulder region",71831,recurrent dislocation of joint shoulder region,1
+1765,Thrombotic microangiopathy,4466,thrombotic microangiopathy,1
+1766,Atherosclerosis of nonautologous biological bypass graft of the extremities,44032,atherosclerosis of nonautologous biological bypass graft of the extremities,1
+1767,Malignant neoplasm of vagina,1840,malignant neoplasm of vagina,2
+1768,Congenital deficiency of other clotting factors,2863,congenital deficiency of other clotting factors,1
+1769,"Synovial cyst, unspecified",72740,synovial cyst unspecified,7
+1770,Secondary hypercoagulable state,28982,secondary hypercoagulable state,1
+1771,"Injury to spleen with open wound into cavity, unspecified injury",86510,injury to spleen with open wound into cavity unspecified injury,0
+1772,Embolism and thrombosis of other specified artery,44489,embolism and thrombosis of other specified artery,3
+1773,Personal history of colonic polyps,V1272,personal history of colonic polyps,1
+1774,"Other and unspecified disc disorder, thoracic region",72292,other and unspecified disc disorder thoracic region,7
+1775,"Blisters, epidermal loss [second degree] of thigh [any part]",94526,blisters epidermal loss second degree of thigh any part,1
+1776,Transient visual loss,36812,transient visual loss,1
+1777,Other bone cyst,73329,other bone cyst,1
+1778,"Calculus of gallbladder and bile duct without cholecystitis, without mention of obstruction",57490,calculus of gallbladder and bile duct without cholecystitis without mention of obstruction,4
+1779,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face, and neck",1960,secondary and unspecified malignant neoplasm of lymph nodes of head face and neck,2
+1780,"Other psychological or physical stress, not elsewhere classified",V6289,other psychological or physical stress not elsewhere classified,1
+1781,"Open wound of abdominal wall, anterior, complicated",8793,open wound of abdominal wall anterior complicated,0
+1782,Acute thyroiditis,2450,acute thyroiditis,5
+1783,Carcinoma in situ of rectum,2304,carcinoma in situ of rectum,1
+1784,"Unspecified disorder of muscle, ligament, and fascia",7289,unspecified disorder of muscle ligament and fascia,7
+1785,Candidiasis of lung,1124,candidiasis of lung,1
+1786,Dyskinesia of esophagus,5305,dyskinesia of esophagus,1
+1787,Diaphragmatic hernia with obstruction,5523,diaphragmatic hernia with obstruction,4
+1788,"Open wound of upper arm, without mention of complication",88003,open wound of upper arm without mention of complication,0
+1789,"Acute peptic ulcer of unspecified site with hemorrhage, without mention of obstruction",53300,acute peptic ulcer of unspecified site with hemorrhage without mention of obstruction,4
+1790,"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled",25011,diabetes with ketoacidosis type i juvenile type not stated as uncontrolled,6
+1791,"Malignant neoplasm of cervix uteri, unspecified site",1809,malignant neoplasm of cervix uteri unspecified site,2
+1792,"Threatened premature labor, antepartum condition or complication",64403,threatened premature labor antepartum condition or complication,1
+1793,"Abnormal glucose tolerance of mother, antepartum condition or complication",64883,abnormal glucose tolerance of mother antepartum condition or complication,1
+1794,Other obstruction of duodenum,5373,other obstruction of duodenum,4
+1795,Calcaneal spur,72673,calcaneal spur,1
+1796,"Closed dislocation of shoulder, unspecified",83100,closed dislocation of shoulder unspecified,10
+1797,Other extrapyramidal diseases and abnormal movement disorders,33399,other extrapyramidal diseases and abnormal movement disorders,1
+1798,Hematometra,6214,hematometra,1
+1799,Benign neoplasm of major salivary glands,2102,benign neoplasm of major salivary glands,2
+1800,Nocturia,78843,nocturia,1
+1801,Toxic epidermal necrolysis,69515,toxic epidermal necrolysis,1
+1802,"Subendocardial infarction, subsequent episode of care",41072,subendocardial infarction subsequent episode of care,1
+1803,Malignant neoplasm of anterior portion of floor of mouth,1440,malignant neoplasm of anterior portion of floor of mouth,2
+1804,"Unqualified visual loss, one eye",3698,unqualified visual loss one eye,1
+1805,"Cerebellar or brain stem contusion without mention of open intracranial wound, with no loss of consciousness",85141,cerebellar or brain stem contusion without mention of open intracranial wound with no loss of consciousness,0
+1806,"Mechanical complication of unspecified genitourinary device, implant, and graft",99630,mechanical complication of unspecified genitourinary device implant and graft,8
+1807,"Leukorrhea, not specified as infective",6235,leukorrhea not specified as infective,3
+1808,"Ptosis of eyelid, unspecified",37430,ptosis of eyelid unspecified,7
+1809,Other hyperalimentation,2788,other hyperalimentation,1
+1810,Acute laryngitis without mention of obstruction,46400,acute laryngitis without mention of obstruction,4
+1811,Infectious diarrhea,0092,infectious diarrhea,1
+1812,Huntington's chorea,3334,huntingtons chorea,1
+1813,"Malignant neoplasm of liver, not specified as primary or secondary",1552,malignant neoplasm of liver not specified as primary or secondary,2
+1814,"Acute duodenal ulcer with perforation, with obstruction",53211,acute duodenal ulcer with perforation with obstruction,4
+1815,Abscess of liver,5720,abscess of liver,1
+1816,"Hyperplasia of prostate, unspecified, without urinary obstruction and other lower urinary symptoms (LUTS)",60090,hyperplasia of prostate unspecified without urinary obstruction and other lower urinary symptoms luts,9
+1817,"Foreign body in digestive system, unspecified",938,foreign body in digestive system unspecified,7
+1818,Contusion of unspecified part of lower limb,9245,contusion of unspecified part of lower limb,9
+1819,"Open fracture of mandible, body, other and unspecified",80238,open fracture of mandible body other and unspecified,10
+1820,Other and unspecified reactive psychosis,2988,other and unspecified reactive psychosis,7
+1821,"Subarachnoid hemorrhage following injury without mention of open intracranial wound, with brief [less than one hour] loss of consciousness",85202,subarachnoid hemorrhage following injury without mention of open intracranial wound with brief less than one hour loss of consciousness,0
+1822,"Neoplasm of unspecified nature, site unspecified",2399,neoplasm of unspecified nature site unspecified,7
+1823,Herpes zoster with other nervous system complications,05319,herpes zoster with other nervous system complications,8
+1824,"Toxic nodular goiter, unspecified type, without mention of thyrotoxic crisis or storm",24230,toxic nodular goiter unspecified type without mention of thyrotoxic crisis or storm,1
+1825,Open fracture of unspecified part of lower end of humerus,81250,open fracture of unspecified part of lower end of humerus,10
+1826,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with prolonged [more than 24 hours] loss of consciousness, without return to pre-existing conscious level",80125,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage with prolonged more than 24 hours loss of consciousness without return to preexisting conscious level,0
+1827,Other adjustment reactions with predominant disturbance of other emotions,30929,other adjustment reactions with predominant disturbance of other emotions,1
+1828,Closed fracture of two ribs,80702,closed fracture of two ribs,10
+1829,Malignant neoplasm of lower-outer quadrant of female breast,1745,malignant neoplasm of lowerouter quadrant of female breast,2
+1830,Irradiation cystitis,59582,irradiation cystitis,1
+1831,Foreign body in bladder and urethra,9390,foreign body in bladder and urethra,1
+1832,"Previous cesarean delivery, delivered, with or without mention of antepartum condition",65421,previous cesarean delivery delivered with or without mention of antepartum condition,1
+1833,Meningitis due to unspecified bacterium,3209,meningitis due to unspecified bacterium,7
+1834,Critical illness polyneuropathy,35782,critical illness polyneuropathy,1
+1835,Phlebitis and thrombophlebitis of femoral vein (deep) (superficial),45111,phlebitis and thrombophlebitis of femoral vein deep superficial,1
+1836,"Opioid type dependence, episodic",30402,opioid type dependence episodic,6
+1837,Angiodysplasia of intestine (without mention of hemorrhage),56984,angiodysplasia of intestine without mention of hemorrhage,1
+1838,Hypovolemia,27652,hypovolemia,1
+1839,"Gastrostomy complication, unspecified",53640,gastrostomy complication unspecified,7
+1840,Aftercare for healing traumatic fracture of upper arm,V5411,aftercare for healing traumatic fracture of upper arm,10
+1841,Malignant neoplasm of other and unspecified sites of male breast,1759,malignant neoplasm of other and unspecified sites of male breast,2
+1842,Heart replaced by transplant,V421,heart replaced by transplant,1
+1843,"Malignant neoplasm of lower lip, vermilion border",1401,malignant neoplasm of lower lip vermilion border,2
+1844,Nonspecific abnormal results of function study of kidney,7944,nonspecific abnormal results of function study of kidney,1
+1845,Other symptoms involving digestive system,78799,other symptoms involving digestive system,1
+1846,"Abrasion or friction burn of other, multiple, and unspecified sites, without mention of infection",9190,abrasion or friction burn of other multiple and unspecified sites without mention of infection,7
+1847,Unspecified senile psychotic condition,2909,unspecified senile psychotic condition,7
+1848,Other specified disorders of esophagus,53089,other specified disorders of esophagus,3
+1849,"Diabetes with unspecified complication, type I [juvenile type], uncontrolled",25093,diabetes with unspecified complication type i juvenile type uncontrolled,6
+1850,Priapism,6073,priapism,1
+1851,"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy",34540,localizationrelated focal partial epilepsy and epileptic syndromes with complex partial seizures without mention of intractable epilepsy,1
+1852,Traumatic compartment syndrome of lower extremity,95892,traumatic compartment syndrome of lower extremity,9
+1853,Unspecified visual disturbance,3689,unspecified visual disturbance,7
+1854,"Unspecified derangement of joint, pelvic region and thigh",71895,unspecified derangement of joint pelvic region and thigh,7
+1855,Vascular disorders of male genital organs,60883,vascular disorders of male genital organs,1
+1856,Mechanical complication due to breast prosthesis,99654,mechanical complication due to breast prosthesis,1
+1857,Stridor,7861,stridor,1
+1858,Observation following other accident,V714,observation following other accident,1
+1859,"Calculus of bile duct with other cholecystitis, with obstruction",57441,calculus of bile duct with other cholecystitis with obstruction,4
+1860,"Malignant neoplasm of peritoneum, unspecified",1589,malignant neoplasm of peritoneum unspecified,2
+1861,Malignant neoplasm of anterior wall of urinary bladder,1883,malignant neoplasm of anterior wall of urinary bladder,2
+1862,"Subdural hemorrhage following injury without mention of open intracranial wound, with prolonged [more than 24 hours] loss of consciousness and return to pre-existing conscious level",85224,subdural hemorrhage following injury without mention of open intracranial wound with prolonged more than 24 hours loss of consciousness and return to preexisting conscious level,0
+1863,Poisoning by methadone,96502,poisoning by methadone,1
+1864,"Closed fracture of base of skull with subarachnoid, subdural, and extradural hemorrhage, with no loss of consciousness",80121,closed fracture of base of skull with subarachnoid subdural and extradural hemorrhage with no loss of consciousness,0
+1865,"Contact dermatitis and other eczema, unspecified cause",6929,contact dermatitis and other eczema unspecified cause,7
+1866,Chronic prostatitis,6011,chronic prostatitis,3
+1867,"Malignant neoplasm of lesser curvature of stomach, unspecified",1515,malignant neoplasm of lesser curvature of stomach unspecified,2
+1868,"Combinations of drug dependence excluding opioid type drug, continuous",30481,combinations of drug dependence excluding opioid type drug continuous,6
+1869,Malignant carcinoid tumor of the bronchus and lung,20921,malignant carcinoid tumor of the bronchus and lung,1
+1870,"Septicemia due to gram-negative organism, unspecified",03840,septicemia due to gramnegative organism unspecified,7
+1871,"Femoral hernia with obstruction, unilateral or unspecified (not specified as recurrent)",55200,femoral hernia with obstruction unilateral or unspecified not specified as recurrent,4
+1872,"Chronic or unspecified gastrojejunal ulcer with hemorrhage, without mention of obstruction",53440,chronic or unspecified gastrojejunal ulcer with hemorrhage without mention of obstruction,4
+1873,Malignant neoplasm of mandible,1701,malignant neoplasm of mandible,2
+1874,Other lymphatic and hematopoietic tissues,23879,other lymphatic and hematopoietic tissues,1
+1875,Chronic diastolic heart failure,42832,chronic diastolic heart failure,3
+1876,Full-thickness skin loss [third degree nos] of lower leg,94534,fullthickness skin loss third degree nos of lower leg,9
+1877,"Abdominal tenderness, unspecified site",78960,abdominal tenderness unspecified site,7
+1878,Poisoning by parasympathomimetics (cholinergics),9710,poisoning by parasympathomimetics cholinergics,1
+1879,Malignant neoplasm of main bronchus,1622,malignant neoplasm of main bronchus,2
+1880,"Chronic osteomyelitis, lower leg",73016,chronic osteomyelitis lower leg,9
+1881,"Previous cesarean delivery, antepartum condition or complication",65423,previous cesarean delivery antepartum condition or complication,1
+1882,"Enthesopathy of knee, unspecified",72660,enthesopathy of knee unspecified,7
+1883,"Blisters, epidermal loss [second degree] of ankle",94523,blisters epidermal loss second degree of ankle,1
+1884,Occlusion and stenosis of other specified precerebral artery with cerebral infarction,43381,occlusion and stenosis of other specified precerebral artery with cerebral infarction,1
+1885,Neurogenic bladder NOS,59654,neurogenic bladder nos,1
+1886,"Unspecified derangement of joint, ankle and foot",71897,unspecified derangement of joint ankle and foot,7
+1887,Malignant neoplasm of upper-inner quadrant of female breast,1742,malignant neoplasm of upperinner quadrant of female breast,2
+1888,"Multiple myeloma, in relapse",20302,multiple myeloma in relapse,1
+1889,Gastroenteritis and colitis due to radiation,5581,gastroenteritis and colitis due to radiation,1
+1890,"Inguinal hernia, without mention of obstruction or gangrene, unilateral or unspecified, recurrent",55091,inguinal hernia without mention of obstruction or gangrene unilateral or unspecified recurrent,4
+1891,"Migraine without aura, with intractable migraine, so stated, without mention of status migrainosus",34611,migraine without aura with intractable migraine so stated without mention of status migrainosus,1
+1892,"Malignant neoplasm of intestinal tract, part unspecified",1590,malignant neoplasm of intestinal tract part unspecified,2
+1893,"Other late effects of cerebrovascular disease, ataxia",43884,other late effects of cerebrovascular disease ataxia,3
+1894,"Other malignant lymphomas, intrathoracic lymph nodes",20282,other malignant lymphomas intrathoracic lymph nodes,1
+1895,"True posterior wall infarction, initial episode of care",41061,true posterior wall infarction initial episode of care,5
+1896,Other specified erythematous conditions,69589,other specified erythematous conditions,3
+1897,"Manic affective disorder, recurrent episode, unspecified",29610,manic affective disorder recurrent episode unspecified,7
+1898,"Late effects of cerebrovascular disease, hemiplegia affecting dominant side",43821,late effects of cerebrovascular disease hemiplegia affecting dominant side,3
+1899,Pathologic fracture of tibia or fibula,73316,pathologic fracture of tibia or fibula,10
